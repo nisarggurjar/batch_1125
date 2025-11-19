@@ -1,0 +1,1001 @@
+order_id,order_date,customer_id,gender,age,city,product,category,quantity,price,discount,payment_method
+1001,2024-03-29,C072,M,38,Kolkata,Fan,Home Appliance,3,1160,7,Debit Card
+1002,2025-01-12,C150,M,19,Hyderabad,Iron,Home Appliance,4,44431,7,Cash
+1003,2025-07-02,C161,F,39,Ahmedabad,Jeans,Apparel,4,5611,12,Credit Card
+1004,2025-02-04,C271,F,64,Bengaluru,Iron,Home Appliance,4,18731,10,Cash
+1005,2025-02-01,C135,M,26,Kolkata,Fan,Home Appliance,1,31851,7,Debit Card
+1006,2023-11-29,C053,F,37,Kolkata,Shoes,Footwear,2,74269,0,Cash
+1007,2025-04-30,C002,F,23,Jaipur,Smartwatch,Electronics,4,36220,5,Debit Card
+1008,2024-01-17,C218,F,51,Pune,Sandals,Footwear,3,9992,5,Cash
+1009,2025-01-06,C053,F,43,Ahmedabad,Tablet,Electronics,1,23547,5,Cash
+1010,2025-04-25,C065,M,24,Ahmedabad,Boots,Footwear,3,38344,12,Credit Card
+1011,2025-04-19,C081,F,52,Bengaluru,Boots,Footwear,3,48490,7,Credit Card
+1012,2025-07-17,C041,F,24,Ahmedabad,Toaster,Home Appliance,3,3861,5,Cash
+1013,2025-03-13,C099,F,57,Jaipur,T-shirt,Apparel,2,35522,12,UPI
+1014,2025-06-28,C257,M,43,Kolkata,Microwave,Home Appliance,2,8410,7,UPI
+1015,2025-08-01,C063,F,56,Mumbai,Laptop,Electronics,1,23719,7,Cash
+1016,2024-08-08,C143,M,46,Pune,Headphones,Electronics,1,18441,12,EMI
+1017,2025-02-06,C284,F,59,Ahmedabad,Sneakers,Footwear,3,75750,15,EMI
+1018,2025-02-07,C128,F,45,Ahmedabad,Shirt,Apparel,4,69463,15,Credit Card
+1019,2025-07-03,C116,M,58,Bengaluru,iPhone 13,Electronics,2,67142,0,UPI
+1020,2025-08-12,C160,F,41,Ahmedabad,Tablet,Electronics,4,13845,7,Cash
+1021,2025-07-06,C295,F,20,Mumbai,iPhone 13,Electronics,4,39653,10,EMI
+1022,2025-09-08,C220,F,40,Chennai,iPhone 13,Electronics,2,27036,5,Credit Card
+1023,2024-04-04,C172,F,49,Jaipur,Smartwatch,Electronics,2,47017,12,Cash
+1024,2024-01-05,C280,M,51,Jaipur,Iron,Home Appliance,3,12988,15,UPI
+1025,2025-05-29,C259,F,53,Bengaluru,Microwave,Home Appliance,3,42407,15,Debit Card
+1026,2024-03-01,C128,M,35,Hyderabad,Iron,Home Appliance,4,11711,10,Credit Card
+1027,2024-09-02,C151,M,47,Bengaluru,Fan,Home Appliance,1,73956,5,Cash
+1028,2025-08-23,C002,M,29,Chennai,Sandals,Footwear,4,16671,0,EMI
+1029,2025-10-12,C099,M,33,Bengaluru,Sneakers,Footwear,1,72994,0,Cash
+1030,2024-04-07,C075,M,25,Pune,Sandals,Footwear,4,59340,10,Cash
+1031,2024-10-17,C153,M,35,Delhi,Kurti,Apparel,1,2857,7,Debit Card
+1032,2024-06-13,C161,F,50,Chennai,Kurti,Apparel,1,61435,0,Cash
+1033,2025-05-10,C128,M,29,Bengaluru,Boots,Footwear,3,46514,0,EMI
+1034,2025-08-17,C286,M,45,Mumbai,Iron,Home Appliance,2,31046,12,EMI
+1035,2025-04-29,C035,F,34,Chennai,Shoes,Footwear,3,74843,10,UPI
+1036,2024-12-03,C181,M,52,Mumbai,Shoes,Footwear,4,34128,12,Cash
+1037,2024-12-24,C128,F,42,Jaipur,Toaster,Home Appliance,1,6402,7,Debit Card
+1038,2024-02-11,C151,F,44,Delhi,Blender,Home Appliance,3,73291,15,Debit Card
+1039,2024-05-22,C170,M,43,Bengaluru,iPhone 13,Electronics,4,78369,12,Debit Card
+1040,2024-08-06,C264,F,63,Bengaluru,Tablet,Electronics,4,70616,0,Cash
+1041,2024-10-11,C051,M,39,Jaipur,Jeans,Apparel,3,11266,15,Credit Card
+1042,2024-10-28,C101,M,25,Chennai,Sandals,Footwear,2,53306,7,Cash
+1043,2024-07-26,C047,M,57,Pune,Boots,Footwear,1,54321,10,EMI
+1044,2024-08-26,C092,F,43,Chennai,Shirt,Apparel,3,74147,7,Debit Card
+1045,2024-12-23,C122,M,64,Delhi,iPhone 13,Electronics,1,75040,5,Credit Card
+1046,2024-07-28,C278,M,20,Bengaluru,Shoes,Footwear,1,3643,12,EMI
+1047,2024-07-02,C047,M,47,Pune,T-shirt,Apparel,4,61689,12,EMI
+1048,2024-02-04,C289,F,47,Chennai,Boots,Footwear,1,35547,10,Debit Card
+1049,2025-06-26,C250,M,49,Mumbai,Jacket,Apparel,4,68685,5,EMI
+1050,2025-02-04,C160,M,37,Hyderabad,Headphones,Electronics,4,27963,5,Cash
+1051,2023-11-22,C179,M,54,Bengaluru,Kurti,Apparel,1,35495,0,Credit Card
+1052,2024-01-04,C095,F,19,Bengaluru,Laptop,Electronics,1,21064,10,Debit Card
+1053,2025-01-22,C090,F,51,Bengaluru,Microwave,Home Appliance,1,25651,5,Credit Card
+1054,2024-12-20,C217,M,53,Chennai,Fan,Home Appliance,1,38813,7,Credit Card
+1055,2024-02-15,C096,F,40,Chennai,Boots,Footwear,2,18255,0,Cash
+1056,2024-05-23,C286,M,37,Ahmedabad,Tablet,Electronics,1,43586,7,EMI
+1057,2024-05-12,C233,M,29,Ahmedabad,Iron,Home Appliance,4,47580,10,Cash
+1058,2025-01-23,C069,M,29,Ahmedabad,Shirt,Apparel,2,54398,12,Cash
+1059,2024-04-27,C039,M,59,Kolkata,Toaster,Home Appliance,4,60866,0,Debit Card
+1060,2025-07-22,C146,M,29,Ahmedabad,Smartwatch,Electronics,1,38402,7,Debit Card
+1061,2023-11-24,C007,F,30,Hyderabad,Shirt,Apparel,1,72892,15,Debit Card
+1062,2024-12-02,C029,M,55,Bengaluru,Laptop,Electronics,2,19365,12,EMI
+1063,2024-02-29,C132,F,23,Bengaluru,Headphones,Electronics,3,58154,0,EMI
+1064,2024-06-03,C019,M,20,Delhi,Sandals,Footwear,3,27090,5,Cash
+1065,2025-10-04,C001,M,30,Ahmedabad,Jeans,Apparel,4,30655,12,Cash
+1066,2024-04-14,C117,F,61,Chennai,iPhone 13,Electronics,1,33891,15,EMI
+1067,2025-01-23,C147,F,35,Ahmedabad,Fan,Home Appliance,4,22032,7,Credit Card
+1068,2024-11-21,C012,F,49,Hyderabad,T-shirt,Apparel,4,69166,0,Cash
+1069,2025-06-13,C164,F,25,Delhi,Boots,Footwear,2,30003,10,Cash
+1070,2024-08-29,C145,M,50,Chennai,Shoes,Footwear,4,5135,7,Cash
+1071,2024-07-18,C253,F,35,Bengaluru,Headphones,Electronics,2,27832,7,EMI
+1072,2024-08-21,C242,M,62,Chennai,Microwave,Home Appliance,4,65845,15,Credit Card
+1073,2025-08-28,C267,M,43,Ahmedabad,T-shirt,Apparel,3,8715,0,UPI
+1074,2024-11-15,C105,M,18,Chennai,Microwave,Home Appliance,1,46840,5,Cash
+1075,2024-06-24,C023,M,54,Bengaluru,Tablet,Electronics,2,10160,7,Credit Card
+1076,2024-10-23,C173,M,21,Mumbai,iPhone 13,Electronics,1,39065,7,Credit Card
+1077,2025-10-28,C250,F,20,Delhi,Boots,Footwear,3,36487,5,Cash
+1078,2023-11-16,C112,M,64,Kolkata,Headphones,Electronics,3,24585,0,EMI
+1079,2025-02-22,C192,F,51,Jaipur,Laptop,Electronics,3,53982,15,Debit Card
+1080,2025-06-11,C249,F,50,Hyderabad,Jeans,Apparel,3,7241,7,Cash
+1081,2024-02-29,C138,F,34,Mumbai,Jeans,Apparel,1,43388,12,Cash
+1082,2025-10-02,C205,F,60,Bengaluru,Boots,Footwear,1,73777,5,Credit Card
+1083,2024-03-23,C184,M,20,Bengaluru,Iron,Home Appliance,4,11937,10,UPI
+1084,2024-07-29,C277,M,35,Jaipur,Laptop,Electronics,2,29032,7,EMI
+1085,2024-01-21,C034,M,31,Ahmedabad,T-shirt,Apparel,2,17207,15,Debit Card
+1086,2025-04-20,C107,M,34,Pune,iPhone 13,Electronics,3,43521,15,Credit Card
+1087,2023-11-17,C014,F,45,Kolkata,Shoes,Footwear,4,50728,15,Debit Card
+1088,2024-07-24,C007,M,64,Kolkata,Laptop,Electronics,3,4921,7,UPI
+1089,2024-02-10,C119,M,45,Kolkata,Fan,Home Appliance,3,34974,0,Credit Card
+1090,2024-01-04,C013,F,42,Pune,Laptop,Electronics,1,48215,0,Debit Card
+1091,2024-11-23,C034,M,25,Hyderabad,Microwave,Home Appliance,4,27034,15,Credit Card
+1092,2025-09-04,C282,F,51,Hyderabad,Sneakers,Footwear,2,60304,10,UPI
+1093,2024-10-06,C150,M,23,Jaipur,Tablet,Electronics,1,28324,12,Cash
+1094,2024-12-21,C247,M,48,Hyderabad,Kurti,Apparel,3,76425,0,EMI
+1095,2025-01-28,C220,M,21,Jaipur,Boots,Footwear,2,38410,5,Credit Card
+1096,2025-10-09,C026,M,62,Chennai,Kurti,Apparel,3,53741,7,Debit Card
+1097,2023-12-14,C113,F,64,Mumbai,Shirt,Apparel,1,58367,10,Debit Card
+1098,2024-11-24,C259,M,23,Delhi,Jacket,Apparel,3,2217,10,Debit Card
+1099,2025-06-05,C168,F,37,Mumbai,Laptop,Electronics,2,2519,12,EMI
+1100,2024-06-26,C095,M,22,Delhi,iPhone 13,Electronics,3,26914,15,EMI
+1101,2025-04-30,C035,M,57,Jaipur,Sneakers,Footwear,2,71092,10,Cash
+1102,2024-12-31,C229,F,47,Bengaluru,Shoes,Footwear,3,8307,0,EMI
+1103,2024-08-03,C062,F,42,Ahmedabad,Tablet,Electronics,3,19582,15,Debit Card
+1104,2024-04-20,C288,M,55,Mumbai,Boots,Footwear,4,75346,15,Credit Card
+1105,2024-07-01,C104,F,56,Bengaluru,iPhone 13,Electronics,3,34316,5,UPI
+1106,2024-02-17,C015,M,46,Mumbai,Iron,Home Appliance,2,24819,10,Cash
+1107,2024-03-26,C097,M,54,Kolkata,Kurti,Apparel,2,51656,0,Credit Card
+1108,2024-10-01,C005,M,27,Mumbai,Shirt,Apparel,2,19329,5,EMI
+1109,2024-01-26,C136,M,46,Pune,Fan,Home Appliance,4,72195,12,Cash
+1110,2024-06-25,C292,F,60,Chennai,Laptop,Electronics,3,16778,7,Cash
+1111,2024-03-27,C218,M,57,Delhi,Blender,Home Appliance,2,76625,5,Credit Card
+1112,2024-10-24,C133,F,54,Hyderabad,Headphones,Electronics,4,27606,10,Debit Card
+1113,2024-12-22,C051,M,31,Hyderabad,Headphones,Electronics,2,65610,0,Credit Card
+1114,2025-10-30,C101,M,43,Pune,Kurti,Apparel,1,14018,15,Credit Card
+1115,2025-05-14,C137,F,43,Ahmedabad,Smartwatch,Electronics,1,63674,0,UPI
+1116,2024-09-05,C294,F,24,Delhi,Fan,Home Appliance,2,49988,7,UPI
+1117,2025-03-14,C251,M,41,Ahmedabad,Kurti,Apparel,4,36668,7,Cash
+1118,2024-01-02,C063,M,39,Delhi,Jacket,Apparel,1,46540,12,EMI
+1119,2025-02-28,C148,F,39,Hyderabad,iPhone 13,Electronics,1,46463,0,Credit Card
+1120,2025-08-11,C215,M,36,Mumbai,Microwave,Home Appliance,1,2059,15,EMI
+1121,2024-08-08,C175,F,19,Jaipur,Smartwatch,Electronics,1,18749,15,Cash
+1122,2024-08-11,C132,M,25,Kolkata,Laptop,Electronics,2,11785,7,UPI
+1123,2024-04-07,C087,M,45,Delhi,Sandals,Footwear,2,75929,10,EMI
+1124,2024-07-20,C255,M,25,Jaipur,Shoes,Footwear,3,76834,7,Credit Card
+1125,2025-04-28,C092,M,25,Delhi,Toaster,Home Appliance,3,72558,0,UPI
+1126,2025-07-30,C165,F,38,Kolkata,Boots,Footwear,4,32121,15,Debit Card
+1127,2025-10-10,C147,F,36,Pune,Blender,Home Appliance,3,16332,12,EMI
+1128,2024-07-05,C011,F,19,Bengaluru,Sandals,Footwear,1,9005,12,Cash
+1129,2024-05-07,C226,M,61,Bengaluru,Shoes,Footwear,2,33872,15,Cash
+1130,2025-11-13,C158,F,63,Kolkata,Shirt,Apparel,1,30275,5,Credit Card
+1131,2024-09-24,C040,F,62,Ahmedabad,Kurti,Apparel,2,28156,0,Credit Card
+1132,2025-07-07,C029,M,51,Kolkata,Kurti,Apparel,4,51993,5,EMI
+1133,2025-01-02,C041,F,51,Mumbai,Blender,Home Appliance,2,61568,10,EMI
+1134,2024-04-10,C027,M,48,Jaipur,Laptop,Electronics,3,78711,12,UPI
+1135,2024-05-19,C173,M,43,Chennai,Sandals,Footwear,1,47128,12,Cash
+1136,2025-02-01,C193,M,53,Bengaluru,Jeans,Apparel,4,36697,5,Debit Card
+1137,2025-07-10,C164,M,56,Hyderabad,Tablet,Electronics,4,53302,7,UPI
+1138,2025-06-02,C069,F,50,Pune,Jeans,Apparel,3,53602,15,Cash
+1139,2024-03-25,C201,F,19,Chennai,Iron,Home Appliance,3,32287,0,Credit Card
+1140,2025-05-11,C104,F,42,Kolkata,iPhone 13,Electronics,1,55212,12,UPI
+1141,2024-08-03,C102,F,29,Bengaluru,Blender,Home Appliance,4,34320,10,EMI
+1142,2024-12-26,C017,F,64,Hyderabad,Sneakers,Footwear,1,69926,12,UPI
+1143,2024-10-17,C198,F,42,Delhi,Sneakers,Footwear,1,52160,12,Credit Card
+1144,2024-07-27,C282,M,39,Kolkata,Sneakers,Footwear,2,28235,0,EMI
+1145,2024-02-20,C215,M,35,Pune,Microwave,Home Appliance,4,11422,5,UPI
+1146,2024-06-15,C159,F,52,Delhi,Kurti,Apparel,1,66450,15,UPI
+1147,2025-02-05,C039,M,21,Jaipur,Smartwatch,Electronics,2,3283,10,Credit Card
+1148,2025-04-06,C227,F,51,Kolkata,Laptop,Electronics,4,79573,15,EMI
+1149,2025-03-04,C039,F,46,Mumbai,Laptop,Electronics,4,48843,7,EMI
+1150,2024-03-28,C239,M,27,Ahmedabad,Jacket,Apparel,1,62487,10,Cash
+1151,2024-04-21,C142,F,47,Delhi,iPhone 13,Electronics,1,33033,7,Cash
+1152,2024-12-24,C073,M,41,Pune,Jacket,Apparel,4,40900,0,Cash
+1153,2025-03-02,C198,M,63,Hyderabad,Blender,Home Appliance,1,67664,12,UPI
+1154,2025-06-02,C260,M,25,Pune,Jacket,Apparel,3,48580,10,EMI
+1155,2025-03-31,C107,F,43,Ahmedabad,Toaster,Home Appliance,1,65054,15,Credit Card
+1156,2024-04-03,C261,F,64,Kolkata,Kurti,Apparel,2,14499,12,Credit Card
+1157,2024-11-02,C061,M,59,Bengaluru,Smartwatch,Electronics,2,62783,0,Debit Card
+1158,2025-01-30,C269,F,64,Ahmedabad,T-shirt,Apparel,4,24878,7,Credit Card
+1159,2024-10-01,C123,F,46,Ahmedabad,Sandals,Footwear,1,17974,7,UPI
+1160,2025-01-24,C040,M,22,Delhi,Laptop,Electronics,2,26231,0,Cash
+1161,2023-12-03,C037,F,30,Chennai,Iron,Home Appliance,4,4272,5,EMI
+1162,2025-04-19,C115,F,20,Hyderabad,Laptop,Electronics,4,9816,15,Debit Card
+1163,2024-04-04,C059,M,58,Ahmedabad,Sneakers,Footwear,4,7614,10,EMI
+1164,2025-03-16,C007,M,60,Ahmedabad,Shirt,Apparel,2,69574,10,UPI
+1165,2024-06-28,C158,M,48,Delhi,Blender,Home Appliance,3,3019,12,Cash
+1166,2024-05-30,C046,M,58,Mumbai,Jacket,Apparel,2,33362,12,Debit Card
+1167,2025-03-21,C074,M,49,Delhi,Boots,Footwear,1,31875,7,Cash
+1168,2024-08-28,C196,F,49,Pune,Sneakers,Footwear,1,26960,15,Debit Card
+1169,2024-11-20,C193,F,43,Hyderabad,Sneakers,Footwear,4,50492,15,UPI
+1170,2024-01-20,C204,F,52,Pune,Jeans,Apparel,4,24121,12,EMI
+1171,2024-07-16,C134,M,32,Bengaluru,Sneakers,Footwear,3,57672,0,UPI
+1172,2024-10-04,C285,F,34,Bengaluru,Jeans,Apparel,2,12045,5,EMI
+1173,2025-04-23,C288,F,64,Pune,Tablet,Electronics,3,76232,10,UPI
+1174,2024-10-27,C021,M,33,Chennai,Iron,Home Appliance,4,44713,10,UPI
+1175,2025-02-09,C257,F,55,Delhi,Sandals,Footwear,1,63716,7,EMI
+1176,2023-12-28,C208,M,25,Ahmedabad,Microwave,Home Appliance,3,26685,10,Credit Card
+1177,2024-06-14,C174,F,24,Bengaluru,Tablet,Electronics,3,9011,7,EMI
+1178,2024-12-01,C046,M,42,Kolkata,Boots,Footwear,4,5955,5,Credit Card
+1179,2024-08-09,C166,F,39,Jaipur,Shirt,Apparel,4,51327,0,EMI
+1180,2025-10-18,C064,M,34,Hyderabad,Laptop,Electronics,4,54915,7,EMI
+1181,2024-09-26,C217,M,55,Ahmedabad,Jeans,Apparel,2,62346,7,UPI
+1182,2024-09-27,C076,M,63,Jaipur,Kurti,Apparel,1,46467,0,Cash
+1183,2025-05-07,C002,M,50,Ahmedabad,Shoes,Footwear,4,74741,5,EMI
+1184,2024-05-09,C166,M,43,Delhi,T-shirt,Apparel,2,57285,5,Debit Card
+1185,2024-04-09,C123,F,26,Jaipur,Shirt,Apparel,4,63068,7,Credit Card
+1186,2024-07-23,C084,F,64,Kolkata,Microwave,Home Appliance,4,65181,5,UPI
+1187,2025-04-04,C022,F,20,Ahmedabad,Boots,Footwear,2,66735,5,Cash
+1188,2024-10-13,C087,F,30,Ahmedabad,Kurti,Apparel,2,15613,10,EMI
+1189,2025-07-19,C173,F,46,Kolkata,Blender,Home Appliance,3,32190,15,EMI
+1190,2024-12-18,C211,F,54,Hyderabad,Iron,Home Appliance,2,20349,5,Credit Card
+1191,2024-03-21,C035,M,46,Jaipur,Iron,Home Appliance,2,60615,7,Credit Card
+1192,2024-11-05,C024,F,54,Pune,Fan,Home Appliance,1,72841,5,Cash
+1193,2025-03-31,C177,M,49,Ahmedabad,Sandals,Footwear,4,39743,5,Cash
+1194,2023-11-28,C066,M,51,Pune,Jacket,Apparel,4,31885,10,Debit Card
+1195,2025-04-17,C268,M,62,Delhi,Iron,Home Appliance,2,45541,12,EMI
+1196,2024-03-30,C240,F,40,Delhi,Microwave,Home Appliance,2,27790,10,EMI
+1197,2025-07-18,C111,F,56,Ahmedabad,Tablet,Electronics,2,4948,15,Cash
+1198,2025-10-07,C066,M,54,Chennai,T-shirt,Apparel,1,61572,10,Credit Card
+1199,2024-02-18,C287,M,27,Bengaluru,Boots,Footwear,4,61667,12,Debit Card
+1200,2025-02-07,C257,M,37,Hyderabad,Laptop,Electronics,2,76919,0,UPI
+1201,2024-11-16,C107,M,64,Chennai,Shoes,Footwear,4,71935,0,Cash
+1202,2024-01-26,C207,F,61,Pune,iPhone 13,Electronics,4,10147,10,Debit Card
+1203,2024-09-09,C020,F,46,Mumbai,Jeans,Apparel,3,66804,12,UPI
+1204,2025-11-09,C161,M,31,Pune,Jacket,Apparel,3,28704,12,EMI
+1205,2024-07-01,C285,M,56,Hyderabad,Kurti,Apparel,2,65961,0,UPI
+1206,2025-08-09,C234,F,25,Delhi,Shirt,Apparel,4,79441,15,EMI
+1207,2025-06-16,C175,F,18,Kolkata,Tablet,Electronics,1,13969,15,Debit Card
+1208,2024-03-20,C026,F,64,Hyderabad,Blender,Home Appliance,2,55709,0,Credit Card
+1209,2024-03-20,C289,M,36,Chennai,Sneakers,Footwear,1,43123,15,EMI
+1210,2024-12-13,C192,F,26,Mumbai,Laptop,Electronics,4,8425,5,Credit Card
+1211,2024-12-20,C159,M,28,Pune,Tablet,Electronics,1,27508,12,Debit Card
+1212,2024-08-25,C082,M,58,Kolkata,Headphones,Electronics,2,4414,5,UPI
+1213,2024-02-15,C089,M,32,Mumbai,Smartwatch,Electronics,4,4012,15,Cash
+1214,2025-08-17,C224,M,52,Jaipur,Jacket,Apparel,4,78014,12,Debit Card
+1215,2025-05-23,C265,M,38,Hyderabad,Iron,Home Appliance,2,77043,15,Debit Card
+1216,2024-09-24,C153,F,22,Delhi,Shirt,Apparel,1,31648,5,EMI
+1217,2025-02-05,C021,M,60,Kolkata,Fan,Home Appliance,3,47119,7,EMI
+1218,2025-03-06,C051,M,21,Chennai,Sneakers,Footwear,4,56388,7,EMI
+1219,2024-07-19,C052,F,44,Bengaluru,Kurti,Apparel,2,47181,12,Debit Card
+1220,2024-06-08,C132,F,42,Kolkata,Sandals,Footwear,1,12589,12,Cash
+1221,2024-04-02,C298,F,53,Pune,Jacket,Apparel,3,63946,0,Cash
+1222,2025-02-09,C047,M,30,Kolkata,T-shirt,Apparel,4,21975,12,EMI
+1223,2024-02-12,C121,M,59,Hyderabad,Shirt,Apparel,1,52549,5,Credit Card
+1224,2025-01-30,C152,M,53,Kolkata,Kurti,Apparel,4,34384,5,Debit Card
+1225,2023-11-30,C069,M,52,Delhi,Laptop,Electronics,1,65781,5,Credit Card
+1226,2025-04-01,C143,M,45,Kolkata,Toaster,Home Appliance,2,49404,12,UPI
+1227,2024-06-12,C254,M,19,Bengaluru,T-shirt,Apparel,1,27513,12,EMI
+1228,2025-07-22,C241,M,56,Hyderabad,Kurti,Apparel,1,32417,0,Cash
+1229,2025-05-15,C042,F,56,Pune,Kurti,Apparel,2,38767,15,EMI
+1230,2025-08-18,C070,M,56,Pune,Headphones,Electronics,1,14510,0,EMI
+1231,2024-11-27,C027,F,38,Hyderabad,Headphones,Electronics,4,69549,12,Debit Card
+1232,2024-06-16,C130,M,61,Delhi,Fan,Home Appliance,3,45413,15,Credit Card
+1233,2025-05-26,C264,F,61,Pune,Blender,Home Appliance,2,9986,10,EMI
+1234,2025-09-19,C208,F,47,Ahmedabad,Tablet,Electronics,3,10826,0,Cash
+1235,2025-08-26,C144,F,62,Kolkata,Headphones,Electronics,4,20403,7,Cash
+1236,2025-01-12,C121,F,38,Pune,Toaster,Home Appliance,4,63011,0,Debit Card
+1237,2025-03-29,C272,F,55,Pune,Sneakers,Footwear,1,5195,12,Debit Card
+1238,2025-08-27,C066,M,38,Delhi,Headphones,Electronics,2,6082,12,UPI
+1239,2024-08-30,C190,M,43,Pune,iPhone 13,Electronics,3,55414,10,Debit Card
+1240,2024-02-26,C101,F,59,Mumbai,Iron,Home Appliance,3,65750,15,Debit Card
+1241,2024-08-05,C158,F,23,Bengaluru,Jeans,Apparel,2,34894,5,Cash
+1242,2025-01-03,C066,M,19,Bengaluru,T-shirt,Apparel,1,78522,7,Debit Card
+1243,2025-08-21,C025,F,42,Jaipur,Shirt,Apparel,4,55549,5,Credit Card
+1244,2024-09-18,C238,M,20,Bengaluru,Sneakers,Footwear,1,6201,15,Credit Card
+1245,2025-08-12,C025,M,21,Pune,T-shirt,Apparel,1,71608,5,Debit Card
+1246,2025-01-09,C043,F,19,Kolkata,Headphones,Electronics,2,35562,12,UPI
+1247,2024-11-26,C266,M,19,Delhi,Iron,Home Appliance,3,79664,5,EMI
+1248,2024-05-24,C099,M,26,Bengaluru,Microwave,Home Appliance,3,38146,0,Cash
+1249,2025-08-14,C101,M,46,Pune,Headphones,Electronics,3,47151,0,Cash
+1250,2025-02-01,C116,M,52,Kolkata,Sandals,Footwear,3,57309,12,UPI
+1251,2025-10-18,C086,M,19,Chennai,Sandals,Footwear,1,31474,12,EMI
+1252,2023-11-21,C013,M,43,Delhi,Jeans,Apparel,1,5842,0,EMI
+1253,2025-05-27,C188,M,38,Pune,Tablet,Electronics,1,47376,10,EMI
+1254,2024-08-01,C082,F,52,Ahmedabad,Shirt,Apparel,4,25421,10,EMI
+1255,2025-06-29,C042,M,58,Mumbai,Shoes,Footwear,2,20177,12,Credit Card
+1256,2025-11-07,C097,F,57,Chennai,iPhone 13,Electronics,4,64941,12,Cash
+1257,2023-12-28,C079,M,40,Hyderabad,Blender,Home Appliance,2,28902,0,EMI
+1258,2025-06-11,C087,M,25,Hyderabad,Toaster,Home Appliance,4,30411,0,Credit Card
+1259,2024-11-05,C152,M,22,Pune,Iron,Home Appliance,1,36524,7,EMI
+1260,2024-04-17,C139,F,32,Bengaluru,Sandals,Footwear,2,10442,10,UPI
+1261,2024-08-30,C261,F,49,Hyderabad,Sneakers,Footwear,2,28438,12,Debit Card
+1262,2025-02-04,C049,F,21,Ahmedabad,Shirt,Apparel,3,24188,0,Credit Card
+1263,2023-12-11,C266,M,53,Hyderabad,Laptop,Electronics,2,61858,5,Debit Card
+1264,2025-07-05,C226,M,27,Mumbai,Jacket,Apparel,3,39371,10,Debit Card
+1265,2025-06-06,C124,F,42,Delhi,Microwave,Home Appliance,4,22468,7,Cash
+1266,2024-05-20,C174,M,38,Bengaluru,Shirt,Apparel,4,47104,7,Debit Card
+1267,2024-05-08,C268,M,64,Delhi,Sandals,Footwear,3,49058,0,EMI
+1268,2024-02-10,C238,M,40,Jaipur,Tablet,Electronics,4,16297,15,UPI
+1269,2024-12-24,C029,M,32,Pune,Headphones,Electronics,2,49208,5,UPI
+1270,2024-09-09,C278,M,54,Mumbai,Kurti,Apparel,4,46786,10,UPI
+1271,2025-04-07,C281,F,54,Hyderabad,Iron,Home Appliance,2,51912,10,Debit Card
+1272,2025-10-31,C104,M,49,Delhi,T-shirt,Apparel,1,55447,7,UPI
+1273,2025-02-09,C231,M,44,Delhi,Laptop,Electronics,4,34496,15,Credit Card
+1274,2024-02-24,C054,F,34,Ahmedabad,Shoes,Footwear,2,48001,5,Debit Card
+1275,2024-04-08,C223,M,23,Hyderabad,iPhone 13,Electronics,3,15679,7,UPI
+1276,2024-06-08,C024,F,52,Chennai,Laptop,Electronics,4,9896,10,EMI
+1277,2024-01-04,C057,M,37,Mumbai,Jacket,Apparel,4,64729,10,Cash
+1278,2024-07-29,C055,F,21,Hyderabad,Smartwatch,Electronics,1,16387,5,Debit Card
+1279,2025-08-11,C060,M,63,Bengaluru,Jeans,Apparel,3,14526,10,EMI
+1280,2024-05-01,C192,M,62,Pune,Sandals,Footwear,2,22117,12,Credit Card
+1281,2024-03-03,C113,M,45,Ahmedabad,Microwave,Home Appliance,3,34237,10,Cash
+1282,2025-03-07,C260,F,64,Jaipur,Jacket,Apparel,1,78284,15,Cash
+1283,2025-06-25,C061,F,20,Mumbai,Microwave,Home Appliance,1,3771,0,EMI
+1284,2024-09-14,C035,F,43,Bengaluru,T-shirt,Apparel,3,23584,5,EMI
+1285,2024-09-28,C074,F,22,Pune,Tablet,Electronics,1,43263,12,Debit Card
+1286,2025-07-12,C129,F,53,Jaipur,Sandals,Footwear,3,15378,5,Credit Card
+1287,2025-03-05,C031,F,41,Ahmedabad,Shirt,Apparel,4,7831,0,Cash
+1288,2025-05-26,C220,M,52,Kolkata,Headphones,Electronics,2,37781,15,Cash
+1289,2024-11-15,C106,M,30,Jaipur,Jeans,Apparel,4,32891,15,Cash
+1290,2024-10-13,C084,F,60,Ahmedabad,Tablet,Electronics,4,5647,7,EMI
+1291,2024-01-27,C127,M,35,Hyderabad,Sandals,Footwear,3,30982,15,UPI
+1292,2023-11-26,C154,F,31,Ahmedabad,Boots,Footwear,4,77754,12,EMI
+1293,2025-10-17,C161,F,21,Ahmedabad,Jacket,Apparel,3,28528,5,Credit Card
+1294,2025-04-08,C043,M,56,Jaipur,Tablet,Electronics,4,7821,5,Credit Card
+1295,2024-03-27,C065,F,38,Chennai,Laptop,Electronics,2,50969,5,Debit Card
+1296,2025-10-26,C144,F,56,Jaipur,T-shirt,Apparel,2,68973,5,Cash
+1297,2023-11-28,C099,F,49,Kolkata,Sneakers,Footwear,3,30951,5,EMI
+1298,2025-07-28,C214,M,57,Chennai,Sandals,Footwear,4,64170,15,Cash
+1299,2024-08-27,C284,F,19,Ahmedabad,Sandals,Footwear,1,57000,5,UPI
+1300,2024-01-25,C227,F,56,Pune,Boots,Footwear,2,23948,10,Credit Card
+1301,2025-11-01,C267,F,29,Hyderabad,Blender,Home Appliance,1,32958,7,Cash
+1302,2024-06-26,C072,M,26,Hyderabad,Shoes,Footwear,1,76239,12,Debit Card
+1303,2023-12-11,C263,F,20,Bengaluru,Shirt,Apparel,2,29439,10,UPI
+1304,2024-02-05,C220,M,25,Chennai,Kurti,Apparel,2,4435,0,Cash
+1305,2025-04-02,C246,M,49,Ahmedabad,Sneakers,Footwear,2,68143,15,Cash
+1306,2025-07-24,C021,F,30,Delhi,Microwave,Home Appliance,1,25450,12,Cash
+1307,2024-07-05,C247,F,44,Chennai,Sandals,Footwear,3,67365,7,Credit Card
+1308,2024-03-15,C154,F,22,Bengaluru,Microwave,Home Appliance,1,27119,10,EMI
+1309,2025-01-10,C134,M,61,Ahmedabad,Shoes,Footwear,4,49716,15,UPI
+1310,2025-02-22,C216,F,39,Bengaluru,Shirt,Apparel,1,26775,12,Cash
+1311,2024-08-28,C248,F,50,Chennai,Sandals,Footwear,1,69915,10,UPI
+1312,2025-08-18,C075,M,40,Jaipur,Sandals,Footwear,3,45396,5,Credit Card
+1313,2024-12-10,C289,F,33,Delhi,Headphones,Electronics,2,18358,7,Debit Card
+1314,2025-05-25,C148,F,18,Hyderabad,Fan,Home Appliance,2,67794,0,UPI
+1315,2025-01-09,C227,M,63,Pune,Sandals,Footwear,2,63578,12,Cash
+1316,2024-09-25,C252,M,32,Delhi,Shoes,Footwear,1,54098,7,UPI
+1317,2023-12-11,C091,F,63,Jaipur,Smartwatch,Electronics,3,23046,7,Cash
+1318,2025-09-25,C084,M,42,Hyderabad,Smartwatch,Electronics,2,47038,15,Debit Card
+1319,2025-01-25,C275,M,45,Pune,T-shirt,Apparel,2,53630,7,EMI
+1320,2025-01-21,C275,M,31,Hyderabad,Microwave,Home Appliance,4,11302,0,EMI
+1321,2024-08-21,C265,F,50,Hyderabad,Headphones,Electronics,1,31955,15,Cash
+1322,2025-08-01,C222,M,21,Pune,Smartwatch,Electronics,3,11540,15,Cash
+1323,2024-10-24,C062,M,47,Bengaluru,Sandals,Footwear,1,55169,12,UPI
+1324,2024-03-19,C276,M,20,Mumbai,Sandals,Footwear,1,59229,12,EMI
+1325,2025-07-06,C216,F,18,Hyderabad,iPhone 13,Electronics,3,46703,0,EMI
+1326,2025-04-11,C047,M,58,Bengaluru,Fan,Home Appliance,4,6881,15,Debit Card
+1327,2024-12-03,C038,F,46,Bengaluru,Shoes,Footwear,1,14867,7,Cash
+1328,2024-04-14,C076,M,20,Jaipur,Fan,Home Appliance,4,31559,15,Cash
+1329,2024-08-08,C072,M,55,Jaipur,Jeans,Apparel,1,11490,0,Credit Card
+1330,2024-10-23,C218,M,25,Bengaluru,T-shirt,Apparel,4,7016,15,Cash
+1331,2024-05-09,C142,M,62,Pune,T-shirt,Apparel,1,76168,0,Credit Card
+1332,2025-07-01,C190,F,60,Pune,Tablet,Electronics,1,54545,15,Cash
+1333,2025-07-06,C192,F,59,Jaipur,Laptop,Electronics,1,17024,0,Credit Card
+1334,2025-11-15,C277,M,56,Kolkata,Tablet,Electronics,1,70748,0,Credit Card
+1335,2023-12-28,C147,M,30,Mumbai,Toaster,Home Appliance,3,22507,15,Cash
+1336,2025-05-22,C109,F,50,Kolkata,Fan,Home Appliance,1,78579,12,Cash
+1337,2024-05-11,C174,M,47,Kolkata,Jacket,Apparel,1,37683,7,Credit Card
+1338,2025-09-12,C161,M,53,Delhi,Fan,Home Appliance,2,23677,5,EMI
+1339,2025-02-22,C243,M,58,Kolkata,Fan,Home Appliance,1,79231,0,Debit Card
+1340,2025-09-30,C266,F,35,Bengaluru,Toaster,Home Appliance,3,51949,7,Credit Card
+1341,2024-04-30,C155,M,19,Jaipur,Headphones,Electronics,4,17454,15,UPI
+1342,2025-04-16,C268,M,60,Mumbai,Sandals,Footwear,2,72275,0,EMI
+1343,2024-10-13,C049,M,48,Ahmedabad,Blender,Home Appliance,1,38544,15,Credit Card
+1344,2024-07-09,C146,F,52,Kolkata,Shirt,Apparel,2,10816,7,Credit Card
+1345,2024-03-18,C288,M,20,Ahmedabad,Laptop,Electronics,4,62793,10,UPI
+1346,2025-05-07,C118,F,50,Hyderabad,Boots,Footwear,3,76069,0,Debit Card
+1347,2024-09-19,C056,M,18,Pune,Boots,Footwear,3,77008,10,UPI
+1348,2025-02-10,C126,M,55,Chennai,Laptop,Electronics,2,40679,10,Debit Card
+1349,2025-04-28,C067,M,62,Pune,Boots,Footwear,4,17738,0,Debit Card
+1350,2024-07-28,C051,F,23,Chennai,Iron,Home Appliance,3,72427,5,Debit Card
+1351,2024-01-30,C035,M,23,Pune,Laptop,Electronics,2,22352,10,Debit Card
+1352,2024-12-28,C059,M,34,Jaipur,Shoes,Footwear,1,19100,12,Cash
+1353,2025-07-26,C162,M,39,Chennai,Tablet,Electronics,1,16148,12,UPI
+1354,2025-06-19,C109,M,38,Chennai,Iron,Home Appliance,2,64686,5,Cash
+1355,2025-01-25,C280,M,52,Delhi,Fan,Home Appliance,1,75550,10,UPI
+1356,2025-09-20,C252,F,57,Jaipur,Sneakers,Footwear,1,39720,7,Credit Card
+1357,2025-10-02,C008,F,22,Mumbai,Sandals,Footwear,3,78288,12,EMI
+1358,2025-06-24,C117,F,28,Jaipur,Sandals,Footwear,4,76074,7,EMI
+1359,2024-01-28,C005,M,37,Ahmedabad,Fan,Home Appliance,1,76321,15,Debit Card
+1360,2024-06-14,C108,F,49,Jaipur,Sandals,Footwear,3,66718,5,Debit Card
+1361,2024-08-13,C216,M,32,Ahmedabad,Sandals,Footwear,1,59254,15,UPI
+1362,2025-08-27,C219,F,45,Bengaluru,T-shirt,Apparel,1,30686,15,Cash
+1363,2025-09-03,C116,M,34,Mumbai,Toaster,Home Appliance,4,53710,0,Credit Card
+1364,2023-12-27,C013,M,63,Kolkata,Smartwatch,Electronics,2,40810,7,Debit Card
+1365,2024-06-16,C054,F,59,Chennai,Sandals,Footwear,2,36488,7,Cash
+1366,2024-06-06,C057,F,64,Bengaluru,T-shirt,Apparel,3,53187,15,UPI
+1367,2024-09-08,C135,M,18,Pune,Jeans,Apparel,4,37276,15,Credit Card
+1368,2025-01-18,C188,F,26,Mumbai,iPhone 13,Electronics,4,43027,12,Cash
+1369,2025-01-15,C290,F,31,Pune,Blender,Home Appliance,4,15338,0,UPI
+1370,2024-06-11,C173,F,51,Bengaluru,Iron,Home Appliance,4,42169,12,UPI
+1371,2025-06-18,C234,F,33,Jaipur,Jeans,Apparel,3,71612,5,Cash
+1372,2024-03-28,C290,M,20,Hyderabad,Jeans,Apparel,4,46392,10,UPI
+1373,2025-06-08,C233,F,30,Chennai,Jacket,Apparel,1,24082,0,UPI
+1374,2024-05-21,C074,F,53,Hyderabad,Smartwatch,Electronics,1,31050,15,Cash
+1375,2025-06-08,C053,F,32,Jaipur,Boots,Footwear,2,12445,5,Cash
+1376,2025-01-22,C012,M,48,Delhi,Smartwatch,Electronics,4,71426,5,Debit Card
+1377,2024-08-09,C204,M,32,Ahmedabad,Sandals,Footwear,3,49066,0,Credit Card
+1378,2024-03-22,C294,M,40,Hyderabad,Jacket,Apparel,2,32197,15,Debit Card
+1379,2024-04-30,C157,F,28,Ahmedabad,Shoes,Footwear,1,35505,10,Credit Card
+1380,2025-06-29,C100,F,32,Bengaluru,Iron,Home Appliance,3,53684,5,EMI
+1381,2025-02-15,C186,M,43,Mumbai,Microwave,Home Appliance,4,48995,7,Cash
+1382,2024-10-17,C235,M,54,Mumbai,Microwave,Home Appliance,2,23778,12,Cash
+1383,2025-10-14,C021,F,36,Bengaluru,Microwave,Home Appliance,2,54340,0,Cash
+1384,2024-11-30,C028,F,58,Bengaluru,Laptop,Electronics,1,46268,15,Debit Card
+1385,2024-12-10,C013,F,54,Pune,Sandals,Footwear,1,5655,10,Debit Card
+1386,2024-02-27,C100,M,40,Delhi,Shoes,Footwear,2,21108,7,Credit Card
+1387,2024-09-26,C149,F,57,Jaipur,Boots,Footwear,3,47677,10,Credit Card
+1388,2024-08-25,C049,F,27,Chennai,Shoes,Footwear,3,33302,12,Cash
+1389,2025-09-17,C102,F,19,Jaipur,Toaster,Home Appliance,1,62297,12,Credit Card
+1390,2024-05-24,C111,F,34,Jaipur,Sandals,Footwear,3,32181,0,Cash
+1391,2024-02-01,C188,F,55,Mumbai,Shoes,Footwear,1,61910,10,Cash
+1392,2025-08-23,C104,F,29,Jaipur,Fan,Home Appliance,3,44091,0,EMI
+1393,2025-03-17,C162,M,23,Kolkata,Kurti,Apparel,2,51674,0,EMI
+1394,2025-03-02,C126,F,33,Chennai,iPhone 13,Electronics,2,55650,10,Cash
+1395,2024-11-03,C160,M,25,Mumbai,Headphones,Electronics,3,64410,0,Credit Card
+1396,2024-01-04,C132,F,20,Ahmedabad,Boots,Footwear,2,11608,7,EMI
+1397,2025-11-02,C218,F,43,Hyderabad,Jeans,Apparel,1,31431,10,Credit Card
+1398,2025-08-04,C143,F,45,Jaipur,Toaster,Home Appliance,4,26723,10,Credit Card
+1399,2025-09-22,C026,M,27,Bengaluru,Smartwatch,Electronics,4,46469,5,UPI
+1400,2023-11-23,C049,M,55,Hyderabad,Tablet,Electronics,4,56051,10,Cash
+1401,2024-09-19,C005,F,58,Hyderabad,iPhone 13,Electronics,2,36381,0,Credit Card
+1402,2024-05-30,C122,M,63,Chennai,Kurti,Apparel,3,45069,12,Debit Card
+1403,2023-12-12,C003,F,23,Hyderabad,Jeans,Apparel,1,43609,15,Cash
+1404,2024-07-06,C240,M,30,Delhi,Smartwatch,Electronics,1,9111,0,UPI
+1405,2024-06-03,C252,F,43,Ahmedabad,Fan,Home Appliance,4,28628,10,Cash
+1406,2025-10-24,C154,F,21,Bengaluru,Toaster,Home Appliance,2,63364,7,EMI
+1407,2025-04-26,C299,M,33,Delhi,Toaster,Home Appliance,1,28301,7,Debit Card
+1408,2024-03-01,C094,M,60,Kolkata,Toaster,Home Appliance,4,19093,15,Credit Card
+1409,2024-11-11,C137,M,27,Pune,Fan,Home Appliance,2,55688,10,EMI
+1410,2024-09-06,C216,F,57,Delhi,Boots,Footwear,3,37077,7,UPI
+1411,2025-06-07,C265,F,44,Delhi,Jacket,Apparel,2,67032,10,UPI
+1412,2024-08-04,C117,F,52,Bengaluru,iPhone 13,Electronics,1,53874,7,Credit Card
+1413,2025-11-15,C274,M,46,Pune,Iron,Home Appliance,2,20613,0,EMI
+1414,2024-06-01,C257,F,43,Pune,Blender,Home Appliance,1,64111,5,Cash
+1415,2025-10-12,C105,M,18,Mumbai,Blender,Home Appliance,3,12902,0,Debit Card
+1416,2025-08-30,C197,F,28,Hyderabad,Shoes,Footwear,1,26836,10,UPI
+1417,2024-03-30,C109,F,24,Kolkata,Smartwatch,Electronics,2,60279,7,Debit Card
+1418,2024-08-07,C279,F,37,Delhi,Shoes,Footwear,2,62144,10,Cash
+1419,2025-05-08,C112,M,63,Ahmedabad,Tablet,Electronics,4,39764,7,UPI
+1420,2024-09-17,C195,M,41,Hyderabad,Sandals,Footwear,1,45326,0,EMI
+1421,2025-05-09,C004,M,51,Ahmedabad,Sandals,Footwear,4,47368,5,Credit Card
+1422,2025-01-12,C069,M,58,Ahmedabad,Toaster,Home Appliance,4,7715,12,EMI
+1423,2023-12-14,C168,M,56,Jaipur,Headphones,Electronics,1,34448,5,EMI
+1424,2024-08-11,C038,M,53,Ahmedabad,Headphones,Electronics,4,38702,7,EMI
+1425,2025-10-03,C025,F,44,Bengaluru,Laptop,Electronics,2,57949,15,Credit Card
+1426,2025-07-25,C039,F,39,Chennai,Kurti,Apparel,2,7514,10,EMI
+1427,2023-12-01,C202,F,51,Ahmedabad,Shoes,Footwear,3,57915,5,Credit Card
+1428,2025-05-14,C048,F,64,Ahmedabad,Blender,Home Appliance,1,27428,10,UPI
+1429,2025-08-20,C191,M,53,Mumbai,Tablet,Electronics,1,32145,0,Credit Card
+1430,2024-06-01,C198,M,64,Kolkata,Blender,Home Appliance,3,20883,7,Debit Card
+1431,2025-04-19,C073,M,23,Jaipur,Toaster,Home Appliance,3,20173,0,Cash
+1432,2025-06-04,C076,F,64,Kolkata,Shoes,Footwear,1,1838,0,Credit Card
+1433,2024-02-26,C032,F,21,Delhi,Smartwatch,Electronics,3,75525,10,Credit Card
+1434,2023-11-22,C289,F,51,Kolkata,Iron,Home Appliance,3,34975,15,Cash
+1435,2025-03-31,C168,M,18,Chennai,Sneakers,Footwear,1,70833,0,UPI
+1436,2024-10-15,C147,F,33,Ahmedabad,Sandals,Footwear,2,67691,7,Cash
+1437,2024-08-28,C007,F,20,Delhi,Fan,Home Appliance,2,28098,15,UPI
+1438,2025-10-03,C113,F,28,Chennai,Blender,Home Appliance,4,54047,10,UPI
+1439,2024-08-05,C069,F,50,Delhi,Shoes,Footwear,1,19852,0,Credit Card
+1440,2024-03-02,C289,M,37,Jaipur,Toaster,Home Appliance,2,26349,10,UPI
+1441,2025-02-02,C202,M,25,Mumbai,Sandals,Footwear,1,23231,5,Debit Card
+1442,2025-11-09,C082,F,37,Ahmedabad,Jeans,Apparel,2,63175,0,Credit Card
+1443,2025-04-29,C266,F,42,Bengaluru,Microwave,Home Appliance,3,28530,7,Debit Card
+1444,2024-07-17,C154,M,56,Jaipur,Boots,Footwear,2,76661,15,Cash
+1445,2024-04-21,C290,F,20,Jaipur,Microwave,Home Appliance,3,64919,10,UPI
+1446,2024-04-09,C059,F,19,Pune,T-shirt,Apparel,3,46100,10,Credit Card
+1447,2025-04-26,C150,M,38,Hyderabad,Blender,Home Appliance,1,55861,7,Cash
+1448,2024-05-25,C068,M,26,Pune,T-shirt,Apparel,4,55576,0,UPI
+1449,2023-12-12,C046,F,49,Jaipur,Laptop,Electronics,1,77519,12,Credit Card
+1450,2024-11-25,C127,M,45,Pune,Jeans,Apparel,3,78813,10,EMI
+1451,2024-05-26,C273,M,58,Delhi,Microwave,Home Appliance,4,68798,10,Cash
+1452,2024-03-02,C047,F,50,Ahmedabad,iPhone 13,Electronics,3,44064,10,EMI
+1453,2024-11-06,C161,M,33,Delhi,Blender,Home Appliance,1,10742,5,Debit Card
+1454,2024-03-30,C174,M,27,Jaipur,Kurti,Apparel,3,5583,12,Credit Card
+1455,2025-10-06,C209,M,23,Ahmedabad,Iron,Home Appliance,2,33758,5,Credit Card
+1456,2024-04-19,C137,F,38,Delhi,Boots,Footwear,2,19596,12,EMI
+1457,2023-11-25,C168,F,60,Chennai,Kurti,Apparel,4,63910,15,Cash
+1458,2024-12-20,C185,M,21,Jaipur,Jeans,Apparel,3,11051,5,EMI
+1459,2025-10-04,C003,F,55,Delhi,Fan,Home Appliance,3,32007,0,Credit Card
+1460,2024-04-23,C202,F,38,Delhi,Tablet,Electronics,1,5403,12,UPI
+1461,2024-07-14,C069,M,21,Hyderabad,Headphones,Electronics,3,16254,10,Debit Card
+1462,2024-06-03,C052,F,42,Kolkata,Microwave,Home Appliance,1,57920,5,EMI
+1463,2024-02-25,C295,F,50,Mumbai,Sandals,Footwear,2,67036,5,EMI
+1464,2025-10-11,C035,M,39,Ahmedabad,iPhone 13,Electronics,3,17713,12,EMI
+1465,2025-04-18,C214,M,46,Chennai,T-shirt,Apparel,2,16622,0,EMI
+1466,2024-10-05,C247,F,38,Delhi,Sandals,Footwear,3,32415,12,EMI
+1467,2025-03-03,C246,M,47,Mumbai,Shirt,Apparel,2,44349,15,UPI
+1468,2025-03-14,C138,M,53,Delhi,Sandals,Footwear,2,41758,5,Credit Card
+1469,2024-09-15,C118,M,45,Hyderabad,Shirt,Apparel,2,69466,7,UPI
+1470,2025-10-09,C019,M,27,Hyderabad,iPhone 13,Electronics,1,15834,15,Debit Card
+1471,2024-02-14,C246,M,51,Mumbai,Tablet,Electronics,3,30349,12,EMI
+1472,2025-07-22,C017,M,30,Chennai,Shoes,Footwear,3,77000,5,Debit Card
+1473,2024-10-05,C103,M,18,Mumbai,Smartwatch,Electronics,2,5426,0,Credit Card
+1474,2024-04-18,C117,M,49,Ahmedabad,Microwave,Home Appliance,3,51240,12,Cash
+1475,2024-01-23,C118,M,24,Bengaluru,iPhone 13,Electronics,2,33572,0,UPI
+1476,2025-11-11,C030,M,57,Delhi,T-shirt,Apparel,3,5294,12,UPI
+1477,2024-12-20,C006,F,64,Ahmedabad,Boots,Footwear,4,41453,15,Cash
+1478,2024-04-04,C082,F,30,Jaipur,Fan,Home Appliance,1,11364,12,Cash
+1479,2024-02-02,C003,F,31,Hyderabad,Shoes,Footwear,2,33702,12,UPI
+1480,2024-04-28,C122,M,60,Delhi,Fan,Home Appliance,4,22310,10,Credit Card
+1481,2024-07-22,C207,F,42,Pune,Headphones,Electronics,4,970,5,Credit Card
+1482,2024-02-04,C295,F,34,Bengaluru,Jeans,Apparel,4,34960,12,EMI
+1483,2024-02-09,C265,M,45,Jaipur,Fan,Home Appliance,3,20296,10,EMI
+1484,2024-05-18,C277,F,43,Pune,T-shirt,Apparel,3,76802,7,Debit Card
+1485,2024-07-04,C170,M,30,Jaipur,Tablet,Electronics,2,26369,5,UPI
+1486,2025-11-13,C222,F,27,Mumbai,Tablet,Electronics,2,34022,15,Debit Card
+1487,2025-08-30,C279,F,49,Mumbai,Jeans,Apparel,3,72375,5,Credit Card
+1488,2024-11-01,C061,M,47,Chennai,Iron,Home Appliance,3,52177,15,Debit Card
+1489,2025-10-28,C074,M,32,Pune,Jacket,Apparel,4,66758,15,Cash
+1490,2024-08-07,C028,F,18,Chennai,Jacket,Apparel,4,23167,0,EMI
+1491,2024-06-24,C120,F,23,Ahmedabad,Smartwatch,Electronics,1,71546,10,UPI
+1492,2025-03-22,C230,F,19,Hyderabad,Boots,Footwear,4,78578,12,UPI
+1493,2024-01-18,C276,F,60,Bengaluru,Tablet,Electronics,4,38737,7,EMI
+1494,2023-12-19,C269,M,52,Pune,Iron,Home Appliance,4,28602,12,UPI
+1495,2024-01-17,C291,F,55,Hyderabad,Toaster,Home Appliance,2,70430,7,Debit Card
+1496,2024-02-29,C003,F,22,Chennai,Headphones,Electronics,3,65506,7,EMI
+1497,2024-06-16,C029,M,36,Delhi,Kurti,Apparel,4,76612,12,Debit Card
+1498,2025-04-16,C139,F,51,Kolkata,Smartwatch,Electronics,4,57284,7,Cash
+1499,2025-11-05,C268,F,21,Jaipur,Smartwatch,Electronics,3,70832,12,Credit Card
+1500,2024-11-23,C189,F,44,Kolkata,Shirt,Apparel,3,25913,7,Debit Card
+1501,2024-02-04,C182,F,39,Bengaluru,Sneakers,Footwear,1,36482,7,Credit Card
+1502,2024-12-30,C214,F,64,Mumbai,Sneakers,Footwear,3,39404,10,EMI
+1503,2025-10-01,C059,M,32,Hyderabad,Jeans,Apparel,2,44735,0,Cash
+1504,2024-07-02,C013,M,19,Chennai,Kurti,Apparel,2,3555,15,Credit Card
+1505,2024-03-21,C075,F,61,Hyderabad,Jeans,Apparel,2,53327,5,UPI
+1506,2024-08-25,C209,F,37,Pune,Shirt,Apparel,1,23859,5,UPI
+1507,2025-07-23,C181,M,41,Ahmedabad,Toaster,Home Appliance,4,67098,7,UPI
+1508,2024-01-06,C239,M,25,Chennai,Fan,Home Appliance,2,43088,0,Cash
+1509,2025-05-27,C273,F,59,Bengaluru,Sneakers,Footwear,4,6050,0,UPI
+1510,2024-10-07,C251,F,55,Hyderabad,Jeans,Apparel,2,35479,5,Debit Card
+1511,2025-04-20,C293,F,57,Hyderabad,Boots,Footwear,1,46138,10,Cash
+1512,2024-09-28,C192,F,46,Hyderabad,Sneakers,Footwear,3,62099,15,Cash
+1513,2025-09-06,C013,F,53,Chennai,Shirt,Apparel,4,15708,12,Debit Card
+1514,2024-04-17,C278,F,48,Kolkata,Shirt,Apparel,2,44554,15,UPI
+1515,2024-01-05,C192,F,27,Hyderabad,Sandals,Footwear,2,10635,12,UPI
+1516,2025-10-27,C065,M,48,Ahmedabad,Boots,Footwear,2,79975,0,Debit Card
+1517,2025-03-09,C106,M,32,Kolkata,Laptop,Electronics,4,71044,5,EMI
+1518,2025-06-12,C082,M,33,Ahmedabad,iPhone 13,Electronics,2,31679,7,Cash
+1519,2023-12-22,C227,F,35,Kolkata,Sandals,Footwear,4,17918,0,Cash
+1520,2024-04-25,C229,F,36,Ahmedabad,Microwave,Home Appliance,1,35603,12,Cash
+1521,2025-01-01,C160,M,55,Jaipur,Shirt,Apparel,1,46451,12,Cash
+1522,2025-10-08,C226,F,39,Jaipur,Smartwatch,Electronics,1,51118,15,Credit Card
+1523,2025-08-20,C177,M,48,Chennai,Kurti,Apparel,3,14379,10,Cash
+1524,2024-08-24,C084,M,39,Pune,iPhone 13,Electronics,1,29737,5,EMI
+1525,2024-09-03,C205,M,53,Mumbai,Laptop,Electronics,4,73948,10,Credit Card
+1526,2025-06-06,C219,M,40,Hyderabad,Toaster,Home Appliance,2,16579,5,UPI
+1527,2024-02-24,C156,M,33,Kolkata,Kurti,Apparel,3,54328,12,Debit Card
+1528,2023-11-25,C013,F,46,Delhi,Jeans,Apparel,1,57130,15,EMI
+1529,2024-04-23,C116,M,26,Pune,Toaster,Home Appliance,1,64393,0,Debit Card
+1530,2025-10-01,C137,F,64,Mumbai,Sneakers,Footwear,3,78688,10,Cash
+1531,2023-12-20,C288,M,29,Mumbai,Iron,Home Appliance,4,13709,0,EMI
+1532,2025-07-27,C190,F,18,Hyderabad,T-shirt,Apparel,4,54500,7,Debit Card
+1533,2024-11-08,C273,M,49,Chennai,Kurti,Apparel,3,29110,7,EMI
+1534,2024-09-14,C102,M,62,Bengaluru,Sneakers,Footwear,2,75619,15,Credit Card
+1535,2024-05-19,C149,M,19,Hyderabad,Smartwatch,Electronics,3,13982,0,UPI
+1536,2024-02-06,C147,F,55,Delhi,Fan,Home Appliance,1,10534,15,EMI
+1537,2025-11-11,C299,F,30,Pune,Fan,Home Appliance,2,45057,0,Debit Card
+1538,2025-03-23,C083,F,52,Hyderabad,Shoes,Footwear,4,36244,10,UPI
+1539,2024-10-06,C208,F,21,Jaipur,Shoes,Footwear,2,2261,0,Cash
+1540,2025-05-10,C287,F,31,Ahmedabad,Microwave,Home Appliance,4,44219,10,Debit Card
+1541,2024-08-16,C073,F,37,Hyderabad,Blender,Home Appliance,2,56105,5,Debit Card
+1542,2024-01-23,C283,F,32,Bengaluru,Iron,Home Appliance,1,70083,7,Cash
+1543,2023-11-30,C140,M,21,Kolkata,Tablet,Electronics,2,32599,5,Credit Card
+1544,2025-03-26,C149,M,37,Mumbai,T-shirt,Apparel,2,26477,7,Cash
+1545,2024-04-17,C294,M,32,Pune,Jacket,Apparel,1,6889,0,Credit Card
+1546,2025-03-16,C113,M,61,Kolkata,iPhone 13,Electronics,1,60581,15,Cash
+1547,2024-05-09,C214,F,40,Bengaluru,Blender,Home Appliance,4,78784,7,Debit Card
+1548,2025-08-29,C061,F,22,Chennai,T-shirt,Apparel,1,7647,7,EMI
+1549,2025-10-23,C197,M,19,Mumbai,Sneakers,Footwear,2,34328,12,Cash
+1550,2025-01-18,C090,M,25,Jaipur,Iron,Home Appliance,4,18695,10,Cash
+1551,2025-07-05,C184,M,51,Kolkata,T-shirt,Apparel,3,41874,5,Cash
+1552,2024-01-14,C111,M,18,Ahmedabad,Headphones,Electronics,2,55010,12,Debit Card
+1553,2025-04-30,C022,F,52,Hyderabad,Jeans,Apparel,3,21184,0,Credit Card
+1554,2023-12-24,C078,M,23,Bengaluru,Laptop,Electronics,2,9148,0,EMI
+1555,2024-02-17,C163,F,23,Chennai,Toaster,Home Appliance,1,49720,12,Debit Card
+1556,2024-10-31,C020,F,23,Delhi,iPhone 13,Electronics,3,22853,12,Debit Card
+1557,2024-08-22,C013,M,61,Kolkata,Shoes,Footwear,2,5668,15,UPI
+1558,2025-03-30,C100,M,49,Hyderabad,Iron,Home Appliance,4,15386,7,EMI
+1559,2025-04-03,C288,F,30,Jaipur,iPhone 13,Electronics,1,50525,7,Debit Card
+1560,2025-09-27,C296,M,33,Pune,Sandals,Footwear,3,40091,15,EMI
+1561,2025-05-01,C246,F,41,Ahmedabad,Shirt,Apparel,3,5613,7,EMI
+1562,2025-08-16,C125,M,33,Bengaluru,Shirt,Apparel,3,35486,5,Debit Card
+1563,2024-11-19,C060,F,60,Kolkata,Jeans,Apparel,1,38384,12,EMI
+1564,2025-09-29,C006,F,59,Delhi,Jeans,Apparel,4,39831,12,Debit Card
+1565,2024-06-29,C112,F,20,Mumbai,Shoes,Footwear,4,9717,15,Cash
+1566,2025-08-21,C214,F,23,Bengaluru,Fan,Home Appliance,1,44156,7,Credit Card
+1567,2023-12-11,C251,F,20,Ahmedabad,Sandals,Footwear,3,14491,7,Cash
+1568,2025-08-19,C233,M,40,Bengaluru,Sneakers,Footwear,1,63293,7,EMI
+1569,2025-11-09,C281,F,51,Hyderabad,Toaster,Home Appliance,4,35999,15,Credit Card
+1570,2024-03-13,C127,M,42,Bengaluru,Jeans,Apparel,2,28441,15,Cash
+1571,2023-12-27,C085,M,39,Kolkata,Sandals,Footwear,3,76174,7,Credit Card
+1572,2025-02-07,C121,F,35,Jaipur,Sandals,Footwear,2,5995,10,UPI
+1573,2025-11-02,C187,F,33,Jaipur,Microwave,Home Appliance,2,55326,7,Credit Card
+1574,2024-08-27,C076,F,30,Pune,Sneakers,Footwear,3,25306,5,Debit Card
+1575,2025-03-22,C063,F,29,Mumbai,Kurti,Apparel,3,4986,15,EMI
+1576,2025-09-04,C090,F,53,Jaipur,Headphones,Electronics,4,60672,12,EMI
+1577,2024-08-19,C071,M,54,Bengaluru,Fan,Home Appliance,2,16272,15,Cash
+1578,2025-11-09,C064,M,44,Kolkata,Fan,Home Appliance,2,13048,12,Cash
+1579,2025-07-26,C224,F,35,Chennai,Headphones,Electronics,3,70769,10,Cash
+1580,2025-05-16,C141,M,46,Pune,Jacket,Apparel,3,34878,5,Cash
+1581,2024-03-28,C038,F,64,Ahmedabad,Sneakers,Footwear,1,66767,7,Cash
+1582,2024-09-11,C126,M,54,Jaipur,Headphones,Electronics,2,3421,12,Debit Card
+1583,2023-11-29,C298,M,59,Kolkata,Shoes,Footwear,2,44631,12,Cash
+1584,2025-09-03,C189,M,36,Chennai,Blender,Home Appliance,1,78286,12,Debit Card
+1585,2024-04-18,C273,F,33,Kolkata,Fan,Home Appliance,2,1461,5,EMI
+1586,2025-01-14,C004,M,43,Delhi,Iron,Home Appliance,1,32131,7,Cash
+1587,2025-09-14,C047,F,59,Kolkata,Microwave,Home Appliance,4,61686,0,Debit Card
+1588,2024-11-05,C296,F,60,Bengaluru,Shirt,Apparel,2,11070,7,Cash
+1589,2023-12-11,C144,F,47,Pune,Blender,Home Appliance,2,15516,5,Cash
+1590,2024-08-02,C296,M,30,Hyderabad,Tablet,Electronics,4,70709,5,Credit Card
+1591,2025-08-31,C208,M,39,Ahmedabad,Jeans,Apparel,1,51802,15,Cash
+1592,2023-12-06,C160,F,42,Delhi,Kurti,Apparel,1,30278,5,Cash
+1593,2024-01-17,C010,F,51,Pune,Shoes,Footwear,2,21367,0,Cash
+1594,2024-05-06,C159,M,31,Delhi,T-shirt,Apparel,4,49103,15,EMI
+1595,2025-08-07,C125,M,41,Chennai,Fan,Home Appliance,4,27536,10,Debit Card
+1596,2025-09-21,C128,F,29,Jaipur,Jacket,Apparel,2,59395,5,Cash
+1597,2025-04-17,C217,F,50,Pune,Headphones,Electronics,2,7489,12,Cash
+1598,2024-05-31,C123,F,22,Pune,Kurti,Apparel,4,17346,12,EMI
+1599,2024-08-17,C198,F,33,Mumbai,Sneakers,Footwear,3,71417,15,EMI
+1600,2024-05-23,C169,F,64,Delhi,Toaster,Home Appliance,2,79858,10,EMI
+1601,2025-06-01,C206,M,60,Mumbai,Smartwatch,Electronics,4,23682,7,EMI
+1602,2024-03-02,C190,M,49,Hyderabad,Iron,Home Appliance,3,21255,15,EMI
+1603,2024-01-19,C285,F,42,Jaipur,Fan,Home Appliance,1,43598,0,Debit Card
+1604,2024-05-16,C212,F,40,Kolkata,Tablet,Electronics,4,16260,0,UPI
+1605,2024-12-13,C046,M,18,Chennai,Laptop,Electronics,3,68411,10,Credit Card
+1606,2025-11-13,C112,M,50,Bengaluru,Laptop,Electronics,4,7793,12,Cash
+1607,2023-12-17,C212,M,37,Ahmedabad,Toaster,Home Appliance,4,5894,10,Cash
+1608,2025-05-25,C141,M,39,Pune,Iron,Home Appliance,1,7430,7,EMI
+1609,2024-04-04,C200,F,43,Bengaluru,Smartwatch,Electronics,4,76286,10,Debit Card
+1610,2024-05-12,C020,F,36,Kolkata,Iron,Home Appliance,4,56696,0,UPI
+1611,2024-05-09,C267,F,59,Jaipur,Sneakers,Footwear,3,12554,15,Debit Card
+1612,2024-04-08,C230,M,59,Mumbai,Iron,Home Appliance,2,42731,15,UPI
+1613,2025-01-26,C263,M,56,Pune,Boots,Footwear,4,1766,15,Credit Card
+1614,2024-10-07,C051,M,54,Chennai,Sandals,Footwear,2,2193,10,Credit Card
+1615,2025-11-15,C116,F,21,Mumbai,iPhone 13,Electronics,2,58024,15,Debit Card
+1616,2024-09-27,C279,F,45,Ahmedabad,Fan,Home Appliance,1,30433,12,Debit Card
+1617,2024-12-31,C270,F,52,Mumbai,Tablet,Electronics,1,46846,10,UPI
+1618,2025-04-27,C079,F,42,Bengaluru,Sandals,Footwear,1,35615,12,Debit Card
+1619,2024-06-07,C087,M,59,Kolkata,Toaster,Home Appliance,2,72555,10,Credit Card
+1620,2025-07-31,C230,M,50,Mumbai,T-shirt,Apparel,2,17876,5,Cash
+1621,2025-06-09,C132,M,43,Pune,Headphones,Electronics,4,9421,0,Credit Card
+1622,2024-05-03,C292,F,60,Ahmedabad,Blender,Home Appliance,4,70222,12,Debit Card
+1623,2025-08-15,C047,M,48,Pune,Boots,Footwear,4,67272,7,EMI
+1624,2024-10-24,C132,F,47,Jaipur,Laptop,Electronics,3,24795,0,UPI
+1625,2024-04-27,C018,F,24,Mumbai,Shirt,Apparel,2,72247,10,Debit Card
+1626,2023-11-21,C200,F,39,Bengaluru,Jeans,Apparel,2,6833,10,EMI
+1627,2025-09-06,C229,F,47,Kolkata,Jacket,Apparel,2,40996,0,Credit Card
+1628,2025-07-20,C190,M,32,Delhi,Jacket,Apparel,1,26440,7,Cash
+1629,2025-06-20,C259,M,60,Delhi,Toaster,Home Appliance,2,16855,5,Cash
+1630,2025-09-21,C095,F,28,Pune,Jacket,Apparel,4,49356,7,UPI
+1631,2025-03-01,C022,F,61,Jaipur,Shirt,Apparel,2,62620,12,Debit Card
+1632,2025-07-22,C144,M,31,Kolkata,iPhone 13,Electronics,3,44416,7,Cash
+1633,2025-10-04,C265,F,62,Jaipur,Boots,Footwear,3,78302,0,EMI
+1634,2025-09-22,C251,M,32,Kolkata,Toaster,Home Appliance,4,36192,7,EMI
+1635,2024-05-03,C029,M,52,Jaipur,Iron,Home Appliance,2,46718,10,Cash
+1636,2024-09-23,C175,F,38,Bengaluru,Toaster,Home Appliance,3,77246,5,EMI
+1637,2025-09-21,C009,F,31,Chennai,Sneakers,Footwear,1,11579,7,Credit Card
+1638,2024-06-18,C001,F,60,Hyderabad,Blender,Home Appliance,2,20180,0,Credit Card
+1639,2024-10-27,C279,M,23,Chennai,Laptop,Electronics,2,26599,15,UPI
+1640,2023-12-09,C284,F,45,Bengaluru,Laptop,Electronics,1,52713,7,UPI
+1641,2024-10-26,C220,M,21,Ahmedabad,Sneakers,Footwear,4,55732,10,Debit Card
+1642,2025-10-06,C269,M,42,Pune,Sneakers,Footwear,2,32530,12,Debit Card
+1643,2024-08-25,C114,M,28,Bengaluru,Blender,Home Appliance,3,70106,10,UPI
+1644,2024-11-26,C045,F,41,Ahmedabad,Toaster,Home Appliance,2,39749,15,Credit Card
+1645,2025-05-23,C275,F,29,Kolkata,Iron,Home Appliance,2,44194,15,Cash
+1646,2025-03-08,C180,M,54,Bengaluru,Boots,Footwear,4,3262,7,Debit Card
+1647,2023-12-17,C126,M,39,Bengaluru,Iron,Home Appliance,2,19323,12,Cash
+1648,2024-09-26,C085,F,57,Chennai,Headphones,Electronics,3,42722,15,Credit Card
+1649,2025-11-03,C064,M,60,Kolkata,iPhone 13,Electronics,3,30641,7,EMI
+1650,2024-02-02,C103,M,44,Delhi,Blender,Home Appliance,3,6274,0,UPI
+1651,2025-07-23,C134,M,26,Chennai,Iron,Home Appliance,3,17365,5,EMI
+1652,2025-09-04,C077,M,40,Pune,Tablet,Electronics,4,40325,12,EMI
+1653,2025-04-30,C025,F,58,Jaipur,Jacket,Apparel,1,67463,10,UPI
+1654,2024-10-07,C142,F,57,Bengaluru,Tablet,Electronics,1,1201,7,EMI
+1655,2025-05-28,C237,M,18,Pune,Microwave,Home Appliance,2,71486,0,Credit Card
+1656,2024-03-03,C226,M,36,Kolkata,iPhone 13,Electronics,2,4903,7,UPI
+1657,2024-07-13,C236,F,35,Delhi,Smartwatch,Electronics,1,27764,5,Credit Card
+1658,2024-04-03,C070,F,58,Kolkata,Tablet,Electronics,1,40881,5,Debit Card
+1659,2025-05-25,C088,F,26,Pune,T-shirt,Apparel,2,23583,10,Credit Card
+1660,2024-06-14,C272,M,52,Ahmedabad,iPhone 13,Electronics,4,72133,0,Cash
+1661,2025-05-16,C111,F,46,Pune,Tablet,Electronics,3,66623,5,Debit Card
+1662,2024-07-28,C256,M,47,Chennai,Laptop,Electronics,4,366,15,UPI
+1663,2024-05-03,C164,F,30,Chennai,Toaster,Home Appliance,2,12072,12,Debit Card
+1664,2024-10-24,C246,F,40,Kolkata,Boots,Footwear,4,24948,5,EMI
+1665,2025-03-16,C197,M,48,Ahmedabad,Toaster,Home Appliance,2,44537,7,Debit Card
+1666,2024-02-07,C153,M,56,Kolkata,Boots,Footwear,1,45564,5,UPI
+1667,2024-06-07,C192,M,36,Jaipur,Kurti,Apparel,3,29565,15,UPI
+1668,2025-07-08,C144,F,41,Ahmedabad,Sneakers,Footwear,3,1193,15,Cash
+1669,2023-12-01,C183,F,36,Jaipur,Microwave,Home Appliance,3,1815,7,Cash
+1670,2025-07-20,C232,M,25,Delhi,Iron,Home Appliance,1,27228,15,Cash
+1671,2025-02-24,C007,M,27,Delhi,Boots,Footwear,1,1877,12,Cash
+1672,2024-01-08,C126,M,34,Hyderabad,Laptop,Electronics,2,72194,12,UPI
+1673,2023-11-20,C075,F,31,Bengaluru,Kurti,Apparel,2,72873,10,Debit Card
+1674,2024-02-04,C179,F,49,Jaipur,Shoes,Footwear,4,21345,15,UPI
+1675,2025-03-30,C196,M,20,Jaipur,Microwave,Home Appliance,3,3016,15,EMI
+1676,2025-10-31,C172,M,58,Chennai,Sneakers,Footwear,4,51206,15,Credit Card
+1677,2025-05-07,C209,M,22,Bengaluru,Shirt,Apparel,1,35280,7,Cash
+1678,2025-06-16,C095,M,41,Pune,Iron,Home Appliance,2,74143,12,Debit Card
+1679,2024-11-26,C027,M,53,Kolkata,Jeans,Apparel,3,71290,15,UPI
+1680,2024-01-05,C241,M,18,Delhi,Jacket,Apparel,4,75752,15,Cash
+1681,2024-01-02,C192,M,42,Jaipur,T-shirt,Apparel,2,23949,15,UPI
+1682,2024-10-16,C056,F,46,Pune,Jeans,Apparel,2,13968,0,EMI
+1683,2025-07-06,C122,F,60,Mumbai,Tablet,Electronics,1,14926,5,Debit Card
+1684,2025-07-12,C081,M,42,Chennai,Blender,Home Appliance,1,32175,5,EMI
+1685,2024-10-15,C165,F,26,Chennai,Boots,Footwear,3,67387,0,Debit Card
+1686,2024-06-13,C214,F,51,Kolkata,Laptop,Electronics,3,57908,10,EMI
+1687,2024-09-18,C097,M,41,Pune,Kurti,Apparel,1,35993,5,Cash
+1688,2025-02-04,C032,M,45,Ahmedabad,Laptop,Electronics,3,24134,7,Cash
+1689,2025-01-28,C056,M,30,Hyderabad,Sandals,Footwear,2,5883,5,Debit Card
+1690,2024-03-02,C295,M,59,Mumbai,Jacket,Apparel,1,72092,7,Debit Card
+1691,2024-10-27,C196,M,24,Hyderabad,Iron,Home Appliance,2,63561,5,Debit Card
+1692,2025-01-03,C052,F,60,Chennai,Jeans,Apparel,4,16876,15,Debit Card
+1693,2024-11-21,C184,M,23,Pune,T-shirt,Apparel,4,63194,5,UPI
+1694,2025-06-30,C024,F,64,Kolkata,T-shirt,Apparel,1,49121,0,UPI
+1695,2024-03-26,C062,F,46,Jaipur,T-shirt,Apparel,4,42210,7,UPI
+1696,2025-10-07,C042,F,18,Delhi,Sandals,Footwear,3,28360,0,Debit Card
+1697,2024-02-07,C056,M,36,Ahmedabad,iPhone 13,Electronics,2,67066,15,Cash
+1698,2025-09-12,C198,M,18,Bengaluru,Kurti,Apparel,1,18600,10,Credit Card
+1699,2025-10-22,C054,F,43,Mumbai,Toaster,Home Appliance,3,74519,12,Cash
+1700,2024-09-11,C023,M,61,Chennai,Kurti,Apparel,1,32316,7,Cash
+1701,2024-12-28,C206,F,33,Kolkata,Blender,Home Appliance,1,40025,10,UPI
+1702,2024-09-11,C140,F,39,Ahmedabad,Jeans,Apparel,1,25000,12,Cash
+1703,2024-12-24,C045,M,40,Kolkata,Tablet,Electronics,2,36197,7,Debit Card
+1704,2025-09-17,C036,M,44,Ahmedabad,Headphones,Electronics,2,49478,0,EMI
+1705,2024-11-17,C119,F,31,Bengaluru,Laptop,Electronics,4,40844,15,UPI
+1706,2023-12-05,C032,M,35,Kolkata,Toaster,Home Appliance,1,63956,7,Credit Card
+1707,2024-05-15,C103,F,24,Delhi,Tablet,Electronics,4,55865,15,Cash
+1708,2025-09-08,C115,M,64,Bengaluru,Headphones,Electronics,1,24060,5,Cash
+1709,2024-02-17,C155,F,34,Delhi,Boots,Footwear,4,19284,15,Debit Card
+1710,2025-01-30,C215,F,39,Mumbai,Shirt,Apparel,1,73202,0,UPI
+1711,2023-12-30,C117,F,58,Hyderabad,T-shirt,Apparel,4,45456,7,Credit Card
+1712,2025-04-22,C137,F,34,Mumbai,Tablet,Electronics,2,70756,0,EMI
+1713,2024-03-08,C183,M,41,Mumbai,Jeans,Apparel,1,67200,5,Debit Card
+1714,2025-08-13,C017,M,31,Mumbai,Shirt,Apparel,1,67984,5,EMI
+1715,2025-04-25,C047,M,61,Ahmedabad,Fan,Home Appliance,3,24189,10,EMI
+1716,2025-04-11,C247,M,43,Pune,Iron,Home Appliance,4,41018,12,Debit Card
+1717,2025-01-26,C181,M,19,Mumbai,Laptop,Electronics,2,453,10,Debit Card
+1718,2025-06-06,C177,F,20,Mumbai,Microwave,Home Appliance,1,30999,10,Debit Card
+1719,2025-06-09,C189,F,18,Mumbai,Fan,Home Appliance,2,57504,15,Credit Card
+1720,2024-06-04,C134,F,37,Kolkata,Jeans,Apparel,1,73203,10,Credit Card
+1721,2024-09-15,C121,M,37,Bengaluru,Kurti,Apparel,1,45554,5,Cash
+1722,2025-05-07,C108,F,29,Mumbai,Shoes,Footwear,2,51958,15,EMI
+1723,2024-02-23,C066,F,26,Kolkata,Jeans,Apparel,2,60439,12,EMI
+1724,2024-02-28,C084,F,63,Bengaluru,Microwave,Home Appliance,4,6747,5,Cash
+1725,2023-11-17,C162,F,63,Jaipur,Sandals,Footwear,2,32655,7,EMI
+1726,2025-09-19,C123,F,47,Chennai,Boots,Footwear,4,3389,10,UPI
+1727,2025-06-27,C262,F,44,Chennai,Sneakers,Footwear,4,70411,7,UPI
+1728,2025-07-11,C069,M,54,Ahmedabad,Smartwatch,Electronics,4,49594,7,UPI
+1729,2024-09-25,C267,F,25,Hyderabad,iPhone 13,Electronics,1,46533,12,EMI
+1730,2024-11-22,C034,M,27,Mumbai,Blender,Home Appliance,3,663,15,Credit Card
+1731,2025-10-01,C106,M,39,Ahmedabad,Iron,Home Appliance,4,20524,10,Cash
+1732,2025-11-09,C262,F,28,Ahmedabad,Jacket,Apparel,1,68919,5,Cash
+1733,2024-08-06,C124,M,53,Chennai,Laptop,Electronics,2,2867,7,Cash
+1734,2024-07-06,C253,F,38,Jaipur,Boots,Footwear,1,23631,5,EMI
+1735,2025-04-13,C216,M,24,Ahmedabad,Sandals,Footwear,3,74505,10,Credit Card
+1736,2024-11-18,C145,M,55,Hyderabad,Jacket,Apparel,2,30551,10,UPI
+1737,2023-11-30,C057,F,56,Hyderabad,Jacket,Apparel,2,22051,12,Credit Card
+1738,2024-01-02,C244,F,29,Ahmedabad,Blender,Home Appliance,4,24803,0,Cash
+1739,2025-05-09,C057,F,57,Kolkata,Jeans,Apparel,3,24900,5,EMI
+1740,2024-09-01,C229,F,37,Bengaluru,Microwave,Home Appliance,2,23085,0,UPI
+1741,2024-02-04,C254,F,25,Chennai,Jacket,Apparel,2,63521,15,Debit Card
+1742,2024-06-12,C186,F,53,Mumbai,Fan,Home Appliance,3,41436,5,EMI
+1743,2025-07-01,C229,F,36,Kolkata,Shoes,Footwear,3,27989,5,UPI
+1744,2025-01-01,C018,M,22,Jaipur,T-shirt,Apparel,1,33613,0,EMI
+1745,2024-05-13,C186,F,29,Delhi,Toaster,Home Appliance,2,54830,7,UPI
+1746,2024-10-11,C258,M,54,Kolkata,Boots,Footwear,1,11128,15,Debit Card
+1747,2025-04-02,C188,M,49,Chennai,Shirt,Apparel,3,71995,15,EMI
+1748,2025-01-18,C169,M,63,Delhi,Smartwatch,Electronics,4,77429,12,Debit Card
+1749,2025-08-15,C255,M,53,Chennai,Sneakers,Footwear,4,67634,10,Credit Card
+1750,2025-03-31,C151,M,38,Mumbai,Sneakers,Footwear,1,61765,12,UPI
+1751,2025-01-25,C189,M,21,Hyderabad,Toaster,Home Appliance,3,54210,15,EMI
+1752,2025-04-22,C220,M,29,Chennai,T-shirt,Apparel,4,21136,0,Cash
+1753,2024-08-01,C226,M,56,Jaipur,Shirt,Apparel,3,28259,12,Cash
+1754,2024-04-11,C200,M,27,Ahmedabad,iPhone 13,Electronics,4,29042,0,EMI
+1755,2024-10-13,C004,M,35,Hyderabad,Smartwatch,Electronics,3,37345,5,Cash
+1756,2025-03-22,C009,M,35,Bengaluru,Headphones,Electronics,4,3981,12,Credit Card
+1757,2024-01-26,C255,M,32,Pune,Blender,Home Appliance,4,35065,12,EMI
+1758,2025-10-10,C251,M,41,Bengaluru,Jeans,Apparel,2,68747,0,Debit Card
+1759,2025-06-13,C132,M,26,Pune,Jeans,Apparel,2,71401,15,Debit Card
+1760,2024-08-11,C080,M,64,Pune,Smartwatch,Electronics,1,77827,10,Cash
+1761,2024-02-22,C114,M,29,Kolkata,Shirt,Apparel,2,1006,0,EMI
+1762,2025-09-07,C246,M,37,Kolkata,Boots,Footwear,4,12426,5,Cash
+1763,2024-11-01,C037,M,36,Delhi,Shoes,Footwear,1,59642,5,Cash
+1764,2025-04-01,C117,F,51,Delhi,Boots,Footwear,4,33432,0,EMI
+1765,2024-10-20,C231,M,27,Jaipur,Blender,Home Appliance,2,19723,0,UPI
+1766,2023-12-27,C092,M,56,Chennai,Boots,Footwear,1,19422,0,EMI
+1767,2024-11-17,C185,F,48,Pune,iPhone 13,Electronics,1,1468,5,EMI
+1768,2024-06-26,C161,M,31,Hyderabad,Sandals,Footwear,3,30570,10,Credit Card
+1769,2025-05-30,C108,F,48,Jaipur,Jacket,Apparel,1,3926,10,Credit Card
+1770,2025-03-18,C127,F,63,Kolkata,Laptop,Electronics,1,43526,10,Cash
+1771,2025-07-28,C005,F,38,Delhi,Sandals,Footwear,1,33761,10,Credit Card
+1772,2025-07-18,C237,M,59,Chennai,Smartwatch,Electronics,1,1707,0,UPI
+1773,2024-01-26,C055,F,61,Delhi,Smartwatch,Electronics,1,78762,15,EMI
+1774,2024-02-16,C087,M,34,Delhi,Sneakers,Footwear,2,22786,7,UPI
+1775,2024-12-25,C283,M,19,Pune,Blender,Home Appliance,1,15423,0,UPI
+1776,2025-01-12,C081,M,53,Hyderabad,Tablet,Electronics,2,22176,7,EMI
+1777,2025-10-18,C204,F,41,Ahmedabad,Sandals,Footwear,1,53444,15,Cash
+1778,2024-09-14,C268,F,34,Hyderabad,Toaster,Home Appliance,1,59605,7,UPI
+1779,2025-03-06,C265,M,45,Hyderabad,Microwave,Home Appliance,3,21420,10,Cash
+1780,2024-03-01,C076,F,18,Chennai,Smartwatch,Electronics,3,51201,7,Credit Card
+1781,2024-02-27,C096,F,56,Jaipur,iPhone 13,Electronics,3,18229,7,Debit Card
+1782,2024-12-24,C018,M,56,Mumbai,Sandals,Footwear,3,65739,10,EMI
+1783,2025-09-18,C162,M,53,Delhi,Shirt,Apparel,2,26483,15,Cash
+1784,2025-02-06,C201,F,25,Bengaluru,Kurti,Apparel,1,39722,7,UPI
+1785,2025-03-03,C004,M,37,Ahmedabad,Jacket,Apparel,4,38585,15,Cash
+1786,2025-01-15,C159,M,37,Jaipur,Sandals,Footwear,2,6678,15,Cash
+1787,2024-01-29,C106,M,61,Delhi,Microwave,Home Appliance,1,58802,10,Debit Card
+1788,2025-05-18,C074,M,47,Mumbai,Shirt,Apparel,2,57490,5,Cash
+1789,2024-02-24,C119,F,23,Delhi,Microwave,Home Appliance,3,50954,10,EMI
+1790,2025-02-24,C271,F,23,Delhi,Kurti,Apparel,2,8361,10,EMI
+1791,2025-03-21,C093,F,34,Kolkata,Kurti,Apparel,3,12126,12,EMI
+1792,2024-12-13,C052,F,36,Chennai,Sandals,Footwear,2,11567,0,Debit Card
+1793,2023-12-13,C024,F,21,Hyderabad,Smartwatch,Electronics,3,46072,12,UPI
+1794,2024-06-04,C291,M,61,Ahmedabad,Iron,Home Appliance,4,58835,15,EMI
+1795,2023-12-21,C262,M,53,Hyderabad,Sandals,Footwear,1,66681,7,Credit Card
+1796,2025-03-07,C066,F,45,Jaipur,Microwave,Home Appliance,1,4132,10,UPI
+1797,2024-11-08,C216,M,37,Kolkata,Iron,Home Appliance,4,8718,5,EMI
+1798,2024-07-11,C120,F,50,Ahmedabad,iPhone 13,Electronics,4,58136,12,EMI
+1799,2024-09-07,C117,F,27,Pune,Iron,Home Appliance,2,25392,7,Debit Card
+1800,2025-07-08,C226,F,33,Ahmedabad,Iron,Home Appliance,3,4180,10,Cash
+1801,2024-04-09,C238,F,55,Delhi,Microwave,Home Appliance,1,43633,7,Cash
+1802,2024-03-26,C049,F,50,Jaipur,Headphones,Electronics,4,20616,12,Debit Card
+1803,2025-11-01,C293,F,48,Delhi,Toaster,Home Appliance,2,60690,15,Credit Card
+1804,2025-02-20,C156,F,47,Ahmedabad,Sandals,Footwear,3,56977,5,UPI
+1805,2025-09-20,C128,M,59,Chennai,Headphones,Electronics,1,73795,7,UPI
+1806,2024-03-20,C224,F,48,Bengaluru,Jacket,Apparel,2,25863,12,Credit Card
+1807,2024-09-12,C039,F,20,Hyderabad,Shoes,Footwear,2,37800,7,EMI
+1808,2024-09-19,C203,M,50,Chennai,Sneakers,Footwear,2,72076,5,Debit Card
+1809,2024-05-30,C123,M,52,Bengaluru,Fan,Home Appliance,3,4342,5,Cash
+1810,2024-06-02,C084,M,19,Delhi,Microwave,Home Appliance,3,62020,15,Cash
+1811,2024-03-21,C188,F,48,Delhi,Laptop,Electronics,1,74608,5,Cash
+1812,2025-01-03,C177,M,27,Chennai,Sandals,Footwear,3,65884,15,Debit Card
+1813,2024-07-03,C255,F,43,Hyderabad,Tablet,Electronics,2,3352,15,EMI
+1814,2025-10-07,C259,F,64,Hyderabad,Kurti,Apparel,4,9772,12,UPI
+1815,2024-11-07,C186,F,55,Ahmedabad,Laptop,Electronics,2,43462,5,UPI
+1816,2024-04-14,C021,F,38,Hyderabad,Boots,Footwear,1,55180,15,Cash
+1817,2023-11-19,C249,M,26,Jaipur,Sandals,Footwear,3,44633,5,Cash
+1818,2024-10-10,C232,M,33,Jaipur,Shoes,Footwear,1,60577,15,Cash
+1819,2024-06-16,C225,M,26,Ahmedabad,Sandals,Footwear,2,12746,12,UPI
+1820,2024-10-11,C220,F,40,Chennai,Shoes,Footwear,3,18248,0,Debit Card
+1821,2025-04-24,C058,F,19,Ahmedabad,Blender,Home Appliance,1,13263,7,Credit Card
+1822,2025-03-20,C182,M,20,Jaipur,Smartwatch,Electronics,4,77525,0,EMI
+1823,2024-09-01,C204,F,54,Pune,Jacket,Apparel,3,79229,5,Cash
+1824,2025-10-09,C117,F,62,Ahmedabad,iPhone 13,Electronics,3,60924,0,UPI
+1825,2025-07-19,C024,M,27,Bengaluru,Kurti,Apparel,2,71171,10,Cash
+1826,2024-10-11,C243,F,32,Ahmedabad,Boots,Footwear,4,28947,7,Debit Card
+1827,2025-05-14,C068,M,22,Bengaluru,Microwave,Home Appliance,2,24698,7,EMI
+1828,2025-03-03,C178,M,24,Kolkata,Kurti,Apparel,2,54525,0,UPI
+1829,2024-10-25,C176,M,19,Ahmedabad,Sneakers,Footwear,1,12101,12,Cash
+1830,2024-12-09,C001,F,52,Jaipur,Sandals,Footwear,4,65440,10,Cash
+1831,2023-12-11,C065,M,39,Hyderabad,iPhone 13,Electronics,2,59259,7,UPI
+1832,2024-04-17,C068,F,35,Delhi,Headphones,Electronics,4,63968,10,Credit Card
+1833,2024-02-27,C103,M,56,Jaipur,Jeans,Apparel,4,1344,10,Debit Card
+1834,2023-12-21,C073,M,31,Mumbai,iPhone 13,Electronics,4,56955,7,EMI
+1835,2024-04-27,C059,M,52,Kolkata,Shirt,Apparel,2,20955,15,Debit Card
+1836,2024-12-20,C297,M,54,Delhi,Iron,Home Appliance,2,10495,7,Cash
+1837,2025-04-24,C106,F,27,Mumbai,Shoes,Footwear,3,25145,10,EMI
+1838,2024-10-14,C100,F,26,Ahmedabad,Laptop,Electronics,1,20404,0,EMI
+1839,2024-04-08,C120,F,46,Pune,Laptop,Electronics,1,68345,15,Debit Card
+1840,2025-05-09,C270,M,59,Jaipur,T-shirt,Apparel,4,37084,7,EMI
+1841,2024-09-30,C058,F,42,Ahmedabad,Jeans,Apparel,3,31973,10,EMI
+1842,2025-10-02,C052,M,25,Delhi,Sneakers,Footwear,1,77561,10,Cash
+1843,2024-06-19,C032,M,20,Delhi,Tablet,Electronics,1,37720,5,Cash
+1844,2024-04-14,C062,M,63,Pune,Smartwatch,Electronics,2,47656,0,Credit Card
+1845,2025-05-12,C130,M,58,Delhi,Toaster,Home Appliance,4,15378,7,Debit Card
+1846,2024-09-29,C256,F,60,Ahmedabad,Tablet,Electronics,4,50581,5,Debit Card
+1847,2024-01-04,C126,F,23,Mumbai,Smartwatch,Electronics,3,37560,5,Debit Card
+1848,2025-06-24,C146,M,53,Hyderabad,Shoes,Footwear,2,75535,7,Cash
+1849,2025-09-29,C114,M,47,Hyderabad,Shirt,Apparel,3,61408,15,Debit Card
+1850,2025-07-11,C207,F,25,Bengaluru,iPhone 13,Electronics,1,9790,7,UPI
+1851,2024-06-28,C170,M,56,Ahmedabad,Boots,Footwear,3,50153,5,Credit Card
+1852,2025-09-20,C012,F,22,Chennai,Toaster,Home Appliance,1,47358,5,EMI
+1853,2024-03-08,C161,M,40,Mumbai,Laptop,Electronics,2,29104,12,UPI
+1854,2024-02-19,C144,M,56,Mumbai,Jeans,Apparel,2,12704,5,Debit Card
+1855,2025-10-04,C046,F,55,Hyderabad,Shoes,Footwear,1,61613,15,Debit Card
+1856,2024-03-27,C247,F,46,Jaipur,Microwave,Home Appliance,2,13575,0,Debit Card
+1857,2025-08-26,C051,M,24,Hyderabad,Fan,Home Appliance,2,58766,15,Debit Card
+1858,2024-04-10,C183,M,26,Pune,Tablet,Electronics,2,23060,12,Debit Card
+1859,2025-04-30,C034,M,55,Bengaluru,Tablet,Electronics,3,74253,5,Debit Card
+1860,2023-12-08,C210,M,26,Pune,Sneakers,Footwear,4,16091,0,Cash
+1861,2024-12-12,C129,M,45,Delhi,Smartwatch,Electronics,1,7094,15,Cash
+1862,2024-05-23,C208,F,41,Bengaluru,iPhone 13,Electronics,1,54701,12,Cash
+1863,2025-01-23,C143,F,48,Ahmedabad,Blender,Home Appliance,1,62937,7,UPI
+1864,2024-09-29,C258,F,40,Delhi,Sandals,Footwear,4,13803,7,UPI
+1865,2024-10-28,C256,M,18,Chennai,Sandals,Footwear,3,26440,5,UPI
+1866,2025-02-20,C087,M,18,Chennai,Jeans,Apparel,1,28861,15,UPI
+1867,2024-03-22,C028,M,34,Hyderabad,Kurti,Apparel,4,68907,10,Debit Card
+1868,2024-09-30,C248,F,39,Kolkata,Sneakers,Footwear,3,16759,10,EMI
+1869,2024-10-25,C216,M,50,Kolkata,Tablet,Electronics,3,5488,7,EMI
+1870,2024-02-08,C130,F,58,Bengaluru,Fan,Home Appliance,3,8423,7,Debit Card
+1871,2025-07-11,C020,M,55,Pune,Toaster,Home Appliance,4,26288,12,Debit Card
+1872,2025-05-03,C169,M,20,Mumbai,Laptop,Electronics,4,42916,5,Credit Card
+1873,2025-01-09,C291,F,47,Chennai,Toaster,Home Appliance,4,78007,0,Debit Card
+1874,2025-02-24,C069,F,57,Jaipur,Jacket,Apparel,3,5092,15,Credit Card
+1875,2025-03-26,C016,F,29,Kolkata,Boots,Footwear,4,43229,10,Credit Card
+1876,2025-08-23,C015,F,22,Jaipur,Shirt,Apparel,1,11229,10,Credit Card
+1877,2025-06-12,C090,M,33,Bengaluru,Jeans,Apparel,2,5724,10,Debit Card
+1878,2024-10-29,C079,M,50,Ahmedabad,Jacket,Apparel,1,77762,15,EMI
+1879,2025-09-25,C093,F,47,Bengaluru,iPhone 13,Electronics,1,27926,5,EMI
+1880,2024-04-17,C238,M,56,Hyderabad,Toaster,Home Appliance,3,68349,15,Debit Card
+1881,2025-09-11,C017,M,44,Jaipur,iPhone 13,Electronics,1,2251,15,UPI
+1882,2024-02-02,C202,F,38,Mumbai,Shoes,Footwear,1,895,10,UPI
+1883,2024-10-03,C178,M,53,Mumbai,Shirt,Apparel,1,3150,12,Credit Card
+1884,2025-01-21,C259,F,23,Kolkata,Kurti,Apparel,1,28551,12,Credit Card
+1885,2024-08-24,C121,F,24,Hyderabad,Microwave,Home Appliance,1,11002,5,UPI
+1886,2025-08-26,C232,F,41,Jaipur,Toaster,Home Appliance,1,43019,15,UPI
+1887,2024-06-23,C037,F,26,Bengaluru,Smartwatch,Electronics,4,31307,5,Cash
+1888,2024-07-23,C287,M,56,Pune,Jeans,Apparel,3,52366,7,UPI
+1889,2025-03-14,C165,M,46,Delhi,Sneakers,Footwear,3,29386,12,UPI
+1890,2025-01-31,C214,F,55,Kolkata,Shirt,Apparel,3,53631,10,UPI
+1891,2024-11-09,C123,F,46,Chennai,Kurti,Apparel,4,21622,5,Debit Card
+1892,2025-01-16,C191,F,29,Bengaluru,Blender,Home Appliance,2,20665,5,EMI
+1893,2025-10-30,C021,F,60,Bengaluru,Fan,Home Appliance,3,41334,0,EMI
+1894,2023-11-17,C069,F,45,Hyderabad,Boots,Footwear,2,57099,12,Credit Card
+1895,2025-01-20,C146,M,25,Bengaluru,Smartwatch,Electronics,1,78224,5,Credit Card
+1896,2025-07-04,C006,F,31,Bengaluru,Shoes,Footwear,3,60246,5,Cash
+1897,2024-06-09,C135,F,45,Mumbai,Boots,Footwear,3,1069,12,UPI
+1898,2024-12-17,C290,F,64,Jaipur,Sandals,Footwear,1,76931,15,Credit Card
+1899,2024-05-18,C156,F,24,Kolkata,Shirt,Apparel,1,21623,7,EMI
+1900,2025-03-02,C116,M,59,Delhi,Kurti,Apparel,2,73473,7,Debit Card
+1901,2024-06-17,C100,M,50,Mumbai,Boots,Footwear,4,39520,10,Debit Card
+1902,2024-12-24,C007,M,57,Kolkata,Jeans,Apparel,1,55012,5,Cash
+1903,2025-10-22,C112,M,24,Jaipur,Toaster,Home Appliance,2,15389,10,Cash
+1904,2023-12-29,C250,F,36,Hyderabad,Smartwatch,Electronics,3,13463,5,UPI
+1905,2025-10-20,C058,M,35,Ahmedabad,Toaster,Home Appliance,2,2713,5,EMI
+1906,2025-01-08,C039,M,32,Hyderabad,T-shirt,Apparel,1,65431,7,Debit Card
+1907,2024-10-19,C213,M,64,Mumbai,Fan,Home Appliance,3,48414,10,Debit Card
+1908,2025-04-06,C204,F,23,Hyderabad,Iron,Home Appliance,3,14077,5,Cash
+1909,2024-04-18,C258,M,50,Delhi,Smartwatch,Electronics,2,3593,0,Cash
+1910,2024-04-16,C236,M,57,Bengaluru,Toaster,Home Appliance,1,15079,15,UPI
+1911,2023-12-02,C040,F,22,Mumbai,Smartwatch,Electronics,1,23327,15,Credit Card
+1912,2025-09-25,C084,F,42,Bengaluru,Jeans,Apparel,3,67613,12,Cash
+1913,2025-01-27,C163,M,63,Jaipur,Jeans,Apparel,3,58945,7,EMI
+1914,2025-01-23,C273,M,64,Pune,Fan,Home Appliance,2,2131,10,EMI
+1915,2024-04-05,C205,M,38,Chennai,iPhone 13,Electronics,1,10983,12,Debit Card
+1916,2024-02-27,C276,M,64,Hyderabad,Kurti,Apparel,1,77220,0,Debit Card
+1917,2025-04-11,C012,F,42,Mumbai,iPhone 13,Electronics,3,74260,7,Credit Card
+1918,2024-07-22,C039,M,43,Kolkata,Smartwatch,Electronics,2,67305,10,Credit Card
+1919,2024-02-13,C291,M,48,Jaipur,Sandals,Footwear,2,56872,10,UPI
+1920,2025-04-17,C225,F,46,Kolkata,Fan,Home Appliance,2,36786,12,Cash
+1921,2025-04-29,C062,F,43,Hyderabad,Iron,Home Appliance,3,70498,5,Credit Card
+1922,2023-11-27,C152,F,34,Delhi,Laptop,Electronics,1,42264,10,EMI
+1923,2025-08-01,C143,M,57,Mumbai,Toaster,Home Appliance,4,74653,10,Cash
+1924,2024-12-25,C153,M,38,Chennai,Shirt,Apparel,1,14992,15,Debit Card
+1925,2023-11-20,C099,M,56,Kolkata,Toaster,Home Appliance,1,69206,7,UPI
+1926,2024-09-10,C086,F,25,Mumbai,Jacket,Apparel,3,53072,5,Cash
+1927,2024-05-03,C204,F,63,Hyderabad,Microwave,Home Appliance,1,47385,5,Cash
+1928,2025-11-14,C254,M,37,Mumbai,Jacket,Apparel,4,21660,7,UPI
+1929,2025-06-04,C181,M,58,Pune,Boots,Footwear,2,8371,15,Debit Card
+1930,2024-07-27,C079,M,56,Ahmedabad,Fan,Home Appliance,3,20087,0,Debit Card
+1931,2024-06-16,C226,F,22,Delhi,Blender,Home Appliance,4,28374,7,Credit Card
+1932,2024-08-18,C184,M,29,Chennai,Sandals,Footwear,4,63621,15,Cash
+1933,2024-06-09,C187,M,33,Jaipur,Kurti,Apparel,3,432,0,UPI
+1934,2025-03-28,C162,M,57,Mumbai,Sneakers,Footwear,1,4434,5,UPI
+1935,2023-11-23,C113,F,40,Hyderabad,Shirt,Apparel,2,5453,5,Credit Card
+1936,2025-07-16,C113,F,61,Mumbai,Smartwatch,Electronics,2,77094,10,UPI
+1937,2024-10-01,C045,F,44,Mumbai,Kurti,Apparel,4,15487,5,Cash
+1938,2024-07-31,C190,M,51,Pune,Blender,Home Appliance,2,74294,15,EMI
+1939,2023-12-25,C082,M,36,Jaipur,Headphones,Electronics,4,48640,7,Debit Card
+1940,2025-06-02,C237,F,24,Kolkata,Boots,Footwear,1,42795,0,Credit Card
+1941,2025-08-02,C024,M,42,Kolkata,Headphones,Electronics,1,27712,10,Debit Card
+1942,2024-04-28,C280,M,26,Bengaluru,Tablet,Electronics,3,14729,0,Cash
+1943,2024-07-27,C229,M,41,Mumbai,Boots,Footwear,1,35556,7,Cash
+1944,2023-12-07,C015,M,28,Delhi,Kurti,Apparel,1,8169,5,Cash
+1945,2025-01-07,C293,M,38,Bengaluru,Toaster,Home Appliance,4,25896,12,EMI
+1946,2025-09-14,C026,M,56,Bengaluru,Laptop,Electronics,2,64771,12,UPI
+1947,2025-08-31,C186,F,54,Kolkata,Smartwatch,Electronics,2,49810,7,Credit Card
+1948,2025-08-16,C018,F,45,Mumbai,iPhone 13,Electronics,3,41452,15,Credit Card
+1949,2025-10-09,C206,M,44,Mumbai,Tablet,Electronics,4,73964,7,EMI
+1950,2025-03-26,C086,M,42,Delhi,Shoes,Footwear,1,7365,0,EMI
+1951,2024-06-14,C154,M,56,Pune,Boots,Footwear,3,79632,0,Credit Card
+1952,2025-04-05,C144,F,33,Hyderabad,Shirt,Apparel,1,48252,15,Cash
+1953,2025-07-18,C275,M,19,Jaipur,Headphones,Electronics,4,66355,7,Cash
+1954,2025-10-26,C289,M,43,Ahmedabad,Jeans,Apparel,3,6556,12,UPI
+1955,2025-08-15,C012,F,61,Mumbai,Iron,Home Appliance,3,26505,15,Credit Card
+1956,2024-02-04,C185,M,51,Jaipur,iPhone 13,Electronics,4,24706,7,Cash
+1957,2024-12-28,C186,M,62,Chennai,Boots,Footwear,3,11094,7,Credit Card
+1958,2024-11-06,C125,M,43,Hyderabad,Jeans,Apparel,1,38209,0,UPI
+1959,2025-11-13,C106,M,63,Pune,Boots,Footwear,2,54513,7,Debit Card
+1960,2024-06-22,C039,M,28,Pune,Sandals,Footwear,4,31798,5,Cash
+1961,2024-05-20,C184,F,26,Kolkata,Microwave,Home Appliance,2,54712,0,EMI
+1962,2024-11-13,C271,M,60,Jaipur,Laptop,Electronics,2,23527,15,UPI
+1963,2025-09-03,C116,F,27,Jaipur,Sneakers,Footwear,3,5622,12,Credit Card
+1964,2024-09-08,C105,F,19,Hyderabad,Jeans,Apparel,2,21690,5,Cash
+1965,2025-10-08,C094,F,22,Mumbai,Kurti,Apparel,3,8133,15,Debit Card
+1966,2024-09-12,C148,M,40,Chennai,Shoes,Footwear,2,35582,12,Cash
+1967,2024-12-15,C280,F,53,Chennai,Fan,Home Appliance,1,11645,15,UPI
+1968,2025-04-30,C152,F,43,Delhi,Boots,Footwear,1,57954,12,Credit Card
+1969,2024-10-04,C165,M,56,Bengaluru,Smartwatch,Electronics,3,26062,12,Cash
+1970,2025-09-08,C288,F,49,Bengaluru,Kurti,Apparel,4,31929,5,Credit Card
+1971,2023-12-03,C158,F,56,Kolkata,Shoes,Footwear,2,33173,0,Cash
+1972,2025-09-26,C049,M,26,Pune,Microwave,Home Appliance,2,16193,15,EMI
+1973,2025-05-28,C105,F,39,Delhi,Fan,Home Appliance,1,61907,10,Cash
+1974,2024-03-05,C211,F,64,Kolkata,Kurti,Apparel,1,19922,15,EMI
+1975,2024-10-25,C165,M,34,Jaipur,Shoes,Footwear,1,670,7,EMI
+1976,2024-06-02,C188,F,60,Ahmedabad,iPhone 13,Electronics,2,28525,10,Debit Card
+1977,2025-06-02,C077,M,30,Delhi,Boots,Footwear,1,18351,10,EMI
+1978,2024-03-07,C201,F,52,Ahmedabad,Blender,Home Appliance,2,19276,7,EMI
+1979,2024-07-16,C188,M,32,Bengaluru,T-shirt,Apparel,1,15701,0,Credit Card
+1980,2025-11-15,C215,M,40,Ahmedabad,iPhone 13,Electronics,2,75557,0,UPI
+1981,2025-11-02,C225,M,23,Chennai,Laptop,Electronics,1,3562,10,Debit Card
+1982,2025-02-07,C245,M,25,Pune,Tablet,Electronics,2,50917,10,EMI
+1983,2024-03-07,C104,F,59,Chennai,Boots,Footwear,4,46071,7,EMI
+1984,2023-11-21,C257,M,38,Mumbai,Blender,Home Appliance,2,38709,5,Cash
+1985,2024-12-12,C034,F,63,Mumbai,Shoes,Footwear,2,22719,0,Debit Card
+1986,2024-06-27,C065,M,18,Chennai,Toaster,Home Appliance,2,42549,10,Credit Card
+1987,2025-01-26,C145,M,51,Bengaluru,Sneakers,Footwear,1,38683,7,EMI
+1988,2025-06-08,C008,M,30,Delhi,Microwave,Home Appliance,1,14106,5,EMI
+1989,2025-06-12,C130,M,18,Pune,T-shirt,Apparel,4,52543,0,Cash
+1990,2023-11-24,C215,F,27,Delhi,Jeans,Apparel,3,25668,0,UPI
+1991,2023-12-11,C032,F,33,Mumbai,Jeans,Apparel,2,36269,5,EMI
+1992,2025-04-09,C008,F,63,Chennai,Boots,Footwear,1,36445,12,Debit Card
+1993,2024-01-24,C276,F,38,Delhi,Iron,Home Appliance,1,26038,7,Credit Card
+1994,2024-12-07,C201,F,48,Kolkata,Jeans,Apparel,2,9869,15,Cash
+1995,2025-07-10,C090,M,56,Mumbai,Tablet,Electronics,2,32369,10,UPI
+1996,2025-02-03,C153,F,28,Kolkata,Smartwatch,Electronics,3,34929,12,Debit Card
+1997,2025-03-11,C169,F,40,Ahmedabad,Sandals,Footwear,3,13118,5,Debit Card
+1998,2024-10-08,C169,M,48,Chennai,T-shirt,Apparel,1,9159,7,Debit Card
+1999,2025-05-04,C230,F,57,Chennai,Sneakers,Footwear,4,70228,5,Credit Card
+2000,2025-10-05,C138,M,28,Jaipur,iPhone 13,Electronics,4,2786,7,Cash
