@@ -1,0 +1,4 @@
+{"id":1,"values":[1,2,3],"meta":{"a":1}}
+{"id":2,"values":[4,5],"meta":{"b":2}}
+{"id":3,"values":[],"meta":{"c":3}}
+{"id":4,"values":[6],"meta":{"d":4}}
